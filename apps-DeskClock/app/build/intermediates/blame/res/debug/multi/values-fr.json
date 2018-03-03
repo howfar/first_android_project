@@ -1,0 +1,5006 @@
+[
+    {
+        "outputFile": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 11,
+                    "endColumn": 17,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 5521,
+                        "endLine": 78,
+                        "endColumn": 17,
+                        "endOffset": 6650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endLine": 20,
+                    "endColumn": 17,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 9285,
+                        "endLine": 124,
+                        "endColumn": 17,
+                        "endOffset": 9746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1657,
+                    "endLine": 322,
+                    "endColumn": 17,
+                    "endOffset": 28396
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\array.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 798,
+                        "endLine": 320,
+                        "endColumn": 17,
+                        "endOffset": 28773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 28401,
+                    "endLine": 326,
+                    "endColumn": 17,
+                    "endOffset": 28574
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 2,
+                        "startOffset": 19123,
+                        "endLine": 239,
+                        "endColumn": 17,
+                        "endOffset": 19296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 28579,
+                    "endLine": 338,
+                    "endColumn": 17,
+                    "endOffset": 29439
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 2,
+                        "startOffset": 17832,
+                        "endLine": 230,
+                        "endColumn": 17,
+                        "endOffset": 18692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 29444,
+                    "endLine": 425,
+                    "endColumn": 17,
+                    "endOffset": 34375
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 2,
+                        "startOffset": 20572,
+                        "endLine": 338,
+                        "endColumn": 17,
+                        "endOffset": 25503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 34380,
+                    "endLine": 430,
+                    "endColumn": 17,
+                    "endOffset": 34620
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 2,
+                        "startOffset": 11154,
+                        "endLine": 146,
+                        "endColumn": 17,
+                        "endOffset": 11394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 34625,
+                    "endLine": 435,
+                    "endColumn": 17,
+                    "endOffset": 34846
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 9851,
+                        "endLine": 130,
+                        "endColumn": 17,
+                        "endOffset": 10072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 34851,
+                    "endLine": 439,
+                    "endColumn": 14,
+                    "endOffset": 35090
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 15443,
+                        "endLine": 193,
+                        "endColumn": 14,
+                        "endOffset": 15690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 35095,
+                    "endLine": 443,
+                    "endColumn": 14,
+                    "endOffset": 35338
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 15695,
+                        "endLine": 197,
+                        "endColumn": 14,
+                        "endOffset": 15946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 35343,
+                    "endLine": 447,
+                    "endColumn": 14,
+                    "endOffset": 35588
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 201,
+                        "endColumn": 14,
+                        "endOffset": 16204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 35593,
+                    "endLine": 451,
+                    "endColumn": 14,
+                    "endOffset": 35836
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3644,
+                        "endLine": 53,
+                        "endColumn": 14,
+                        "endOffset": 3895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 35841,
+                    "endLine": 455,
+                    "endColumn": 14,
+                    "endOffset": 36122
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4084,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 4373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 36127,
+                    "endLine": 459,
+                    "endColumn": 14,
+                    "endOffset": 36373
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 28450,
+                        "endLine": 369,
+                        "endColumn": 14,
+                        "endOffset": 28696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 36378,
+                    "endLine": 463,
+                    "endColumn": 14,
+                    "endOffset": 36641
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 8927,
+                        "endLine": 114,
+                        "endColumn": 14,
+                        "endOffset": 9198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 36646,
+                    "endLine": 467,
+                    "endColumn": 14,
+                    "endOffset": 36869
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 6655,
+                        "endLine": 82,
+                        "endColumn": 14,
+                        "endOffset": 6886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 36874,
+                    "endLine": 471,
+                    "endColumn": 14,
+                    "endOffset": 37100
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 6891,
+                        "endLine": 86,
+                        "endColumn": 14,
+                        "endOffset": 7125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 37105,
+                    "endLine": 475,
+                    "endColumn": 14,
+                    "endOffset": 37335
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 7130,
+                        "endLine": 90,
+                        "endColumn": 14,
+                        "endOffset": 7368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 37340,
+                    "endLine": 479,
+                    "endColumn": 14,
+                    "endOffset": 37578
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 7969,
+                        "endLine": 101,
+                        "endColumn": 14,
+                        "endOffset": 8215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 37583,
+                    "endLine": 483,
+                    "endColumn": 14,
+                    "endOffset": 37764
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 8220,
+                        "endLine": 105,
+                        "endColumn": 14,
+                        "endOffset": 8401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 37769,
+                    "endColumn": 110,
+                    "endOffset": 37875
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 110,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 37880,
+                    "endColumn": 107,
+                    "endOffset": 37983
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 107,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 37988,
+                    "endColumn": 122,
+                    "endOffset": 38106
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 122,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 38111,
+                    "endColumn": 114,
+                    "endOffset": 38221
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 114,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 38226,
+                    "endColumn": 110,
+                    "endOffset": 38332
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 110,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 38337,
+                    "endColumn": 81,
+                    "endOffset": 38414
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 81,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 38419,
+                    "endColumn": 105,
+                    "endOffset": 38520
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 105,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 38525,
+                    "endColumn": 129,
+                    "endOffset": 38650
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 129,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 38655,
+                    "endColumn": 82,
+                    "endOffset": 38733
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 82,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 38738,
+                    "endColumn": 79,
+                    "endOffset": 38813
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 79,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 38818,
+                    "endColumn": 85,
+                    "endOffset": 38899
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 85,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 38904,
+                    "endColumn": 109,
+                    "endOffset": 39009
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 109,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 39014,
+                    "endColumn": 111,
+                    "endOffset": 39121
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 111,
+                        "endOffset": 1407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 39126,
+                    "endColumn": 102,
+                    "endOffset": 39224
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1412,
+                        "endColumn": 102,
+                        "endOffset": 1510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 39229,
+                    "endColumn": 110,
+                    "endOffset": 39335
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1515,
+                        "endColumn": 110,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 39340,
+                    "endColumn": 106,
+                    "endOffset": 39442
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endColumn": 106,
+                        "endOffset": 1728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 39447,
+                    "endColumn": 106,
+                    "endOffset": 39549
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1733,
+                        "endColumn": 106,
+                        "endOffset": 1835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 39554,
+                    "endColumn": 121,
+                    "endOffset": 39671
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1840,
+                        "endColumn": 121,
+                        "endOffset": 1957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 39676,
+                    "endColumn": 98,
+                    "endOffset": 39770
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1962,
+                        "endColumn": 98,
+                        "endOffset": 2056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 39775,
+                    "endColumn": 82,
+                    "endOffset": 39853
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 963,
+                        "endColumn": 82,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 39858,
+                    "endColumn": 94,
+                    "endOffset": 39948
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3211,
+                        "endColumn": 94,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 39953,
+                    "endColumn": 90,
+                    "endOffset": 40039
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3120,
+                        "endColumn": 90,
+                        "endOffset": 3206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 40044,
+                    "endColumn": 93,
+                    "endOffset": 40133
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3026,
+                        "endColumn": 93,
+                        "endOffset": 3115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 40138,
+                    "endColumn": 93,
+                    "endOffset": 40227
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3900,
+                        "endColumn": 93,
+                        "endOffset": 3989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 40232,
+                    "endColumn": 103,
+                    "endOffset": 40331
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4513,
+                        "endColumn": 103,
+                        "endOffset": 4612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 40336,
+                    "endColumn": 89,
+                    "endOffset": 40421
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3994,
+                        "endColumn": 89,
+                        "endOffset": 4079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 40426,
+                    "endColumn": 130,
+                    "endOffset": 40552
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4378,
+                        "endColumn": 134,
+                        "endOffset": 4508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 40557,
+                    "endColumn": 90,
+                    "endOffset": 40643
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3553,
+                        "endColumn": 90,
+                        "endOffset": 3639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 40648,
+                    "endColumn": 86,
+                    "endOffset": 40730
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2939,
+                        "endColumn": 86,
+                        "endOffset": 3021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 40735,
+                    "endColumn": 89,
+                    "endOffset": 40820
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 11519,
+                        "endColumn": 89,
+                        "endOffset": 11604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 40825,
+                    "endColumn": 249,
+                    "endOffset": 41070
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 402,
+                        "startColumn": 4,
+                        "startOffset": 32436,
+                        "endColumn": 253,
+                        "endOffset": 32685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 41075,
+                    "endColumn": 88,
+                    "endOffset": 41159
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 27828,
+                        "endColumn": 88,
+                        "endOffset": 27912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 41164,
+                    "endColumn": 138,
+                    "endOffset": 41298
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 387,
+                        "startColumn": 4,
+                        "startOffset": 30702,
+                        "endColumn": 142,
+                        "endOffset": 30840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 41303,
+                    "endColumn": 113,
+                    "endOffset": 41412
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 388,
+                        "startColumn": 4,
+                        "startOffset": 30845,
+                        "endColumn": 117,
+                        "endOffset": 30958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 41417,
+                    "endColumn": 151,
+                    "endOffset": 41564
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 406,
+                        "startColumn": 4,
+                        "startOffset": 33030,
+                        "endColumn": 155,
+                        "endOffset": 33181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 41569,
+                    "endColumn": 159,
+                    "endOffset": 41724
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12418,
+                        "endColumn": 159,
+                        "endOffset": 12573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 41729,
+                    "endColumn": 82,
+                    "endOffset": 41807
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 82,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 41812,
+                    "endColumn": 146,
+                    "endOffset": 41954
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3398,
+                        "endColumn": 154,
+                        "endOffset": 3548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 41959,
+                    "endColumn": 91,
+                    "endOffset": 42046
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endColumn": 91,
+                        "endOffset": 3393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 42051,
+                    "endColumn": 125,
+                    "endOffset": 42172
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 10662,
+                        "endColumn": 129,
+                        "endOffset": 10787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 42177,
+                    "endColumn": 152,
+                    "endOffset": 42325
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 10792,
+                        "endColumn": 156,
+                        "endOffset": 10944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 42330,
+                    "endColumn": 105,
+                    "endOffset": 42431
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 10556,
+                        "endColumn": 105,
+                        "endOffset": 10657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 42436,
+                    "endColumn": 78,
+                    "endOffset": 42510
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2254,
+                        "endColumn": 78,
+                        "endOffset": 2328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 42515,
+                    "endColumn": 80,
+                    "endOffset": 42591
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 25508,
+                        "endColumn": 80,
+                        "endOffset": 25584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 42596,
+                    "endColumn": 82,
+                    "endOffset": 42674
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2856,
+                        "endColumn": 82,
+                        "endOffset": 2934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 42679,
+                    "endColumn": 78,
+                    "endOffset": 42753
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2777,
+                        "endColumn": 78,
+                        "endOffset": 2851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 42758,
+                    "endColumn": 76,
+                    "endOffset": 42830
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 27751,
+                        "endColumn": 76,
+                        "endOffset": 27823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 42835,
+                    "endColumn": 79,
+                    "endOffset": 42910
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2174,
+                        "endColumn": 79,
+                        "endOffset": 2249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 42915,
+                    "endColumn": 83,
+                    "endOffset": 42994
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 10291,
+                        "endColumn": 83,
+                        "endOffset": 10370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 42999,
+                    "endColumn": 125,
+                    "endOffset": 43120
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 4,
+                        "startOffset": 28237,
+                        "endColumn": 129,
+                        "endOffset": 28362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 43125,
+                    "endColumn": 85,
+                    "endOffset": 43206
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2333,
+                        "endColumn": 85,
+                        "endOffset": 2414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 43211,
+                    "endColumn": 121,
+                    "endOffset": 43328
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 4,
+                        "startOffset": 26877,
+                        "endColumn": 121,
+                        "endOffset": 26994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 43333,
+                    "endColumn": 90,
+                    "endOffset": 43419
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 7629,
+                        "endColumn": 90,
+                        "endOffset": 7715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 43424,
+                    "endColumn": 75,
+                    "endOffset": 43495
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 75,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 43500,
+                    "endColumn": 83,
+                    "endOffset": 43579
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 9203,
+                        "endColumn": 83,
+                        "endOffset": 9282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 43584,
+                    "endColumn": 102,
+                    "endOffset": 43682
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8824,
+                        "endColumn": 102,
+                        "endOffset": 8922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 43687,
+                    "endColumn": 109,
+                    "endOffset": 43792
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 19301,
+                        "endColumn": 109,
+                        "endOffset": 19406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 43797,
+                    "endColumn": 227,
+                    "endOffset": 44020
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 19411,
+                        "endColumn": 227,
+                        "endOffset": 19634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 44025,
+                    "endColumn": 90,
+                    "endOffset": 44111
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 90,
+                        "endOffset": 13327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 44116,
+                    "endColumn": 78,
+                    "endOffset": 44190
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 13332,
+                        "endColumn": 78,
+                        "endOffset": 13406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 44195,
+                    "endColumn": 84,
+                    "endOffset": 44275
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 13411,
+                        "endColumn": 84,
+                        "endOffset": 13491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 44280,
+                    "endColumn": 86,
+                    "endOffset": 44362
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 18775,
+                        "endColumn": 86,
+                        "endOffset": 18857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 546,
+                    "startColumn": 4,
+                    "startOffset": 44367,
+                    "endColumn": 133,
+                    "endOffset": 44496
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 400,
+                        "startColumn": 4,
+                        "startOffset": 32157,
+                        "endColumn": 137,
+                        "endOffset": 32290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 44501,
+                    "endColumn": 115,
+                    "endOffset": 44612
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 20327,
+                        "endColumn": 119,
+                        "endOffset": 20442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 44617,
+                    "endColumn": 106,
+                    "endOffset": 44719
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 371,
+                        "startColumn": 4,
+                        "startOffset": 28809,
+                        "endColumn": 106,
+                        "endOffset": 28911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 549,
+                    "startColumn": 4,
+                    "startOffset": 44724,
+                    "endColumn": 136,
+                    "endOffset": 44856
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 401,
+                        "startColumn": 4,
+                        "startOffset": 32295,
+                        "endColumn": 140,
+                        "endOffset": 32431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 44861,
+                    "endColumn": 122,
+                    "endOffset": 44979
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 20447,
+                        "endColumn": 126,
+                        "endOffset": 20569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 44984,
+                    "endColumn": 101,
+                    "endOffset": 45081
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7527,
+                        "endColumn": 101,
+                        "endOffset": 7624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 552,
+                    "startColumn": 4,
+                    "startOffset": 45086,
+                    "endColumn": 80,
+                    "endOffset": 45162
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 18862,
+                        "endColumn": 80,
+                        "endOffset": 18938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 45167,
+                    "endColumn": 75,
+                    "endOffset": 45238
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 18943,
+                        "endColumn": 75,
+                        "endOffset": 19014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 554,
+                    "startColumn": 4,
+                    "startOffset": 45243,
+                    "endColumn": 90,
+                    "endOffset": 45329
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 358,
+                        "startColumn": 4,
+                        "startOffset": 27660,
+                        "endColumn": 90,
+                        "endOffset": 27746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 555,
+                    "startColumn": 4,
+                    "startOffset": 45334,
+                    "endColumn": 92,
+                    "endOffset": 45422
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12832,
+                        "endColumn": 92,
+                        "endOffset": 12920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 45427,
+                    "endColumn": 115,
+                    "endOffset": 45538
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 8614,
+                        "endColumn": 119,
+                        "endOffset": 8729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 557,
+                    "startColumn": 4,
+                    "startOffset": 45543,
+                    "endColumn": 118,
+                    "endOffset": 45657
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 8406,
+                        "endColumn": 118,
+                        "endOffset": 8520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 45662,
+                    "endColumn": 89,
+                    "endOffset": 45747
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 8734,
+                        "endColumn": 89,
+                        "endOffset": 8819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 559,
+                    "startColumn": 4,
+                    "startOffset": 45752,
+                    "endColumn": 70,
+                    "endOffset": 45818
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 7456,
+                        "endColumn": 70,
+                        "endOffset": 7522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 45823,
+                    "endColumn": 120,
+                    "endOffset": 45939
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 120,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 561,
+                    "startColumn": 4,
+                    "startOffset": 45944,
+                    "endColumn": 78,
+                    "endOffset": 46018
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2010,
+                        "endColumn": 78,
+                        "endOffset": 2084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 46023,
+                    "endColumn": 119,
+                    "endOffset": 46138
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 11399,
+                        "endColumn": 119,
+                        "endOffset": 11514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 46143,
+                    "endColumn": 115,
+                    "endOffset": 46254
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2419,
+                        "endColumn": 115,
+                        "endOffset": 2530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 564,
+                    "startColumn": 4,
+                    "startOffset": 46259,
+                    "endColumn": 74,
+                    "endOffset": 46329
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 10216,
+                        "endColumn": 74,
+                        "endOffset": 10286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 565,
+                    "startColumn": 4,
+                    "startOffset": 46334,
+                    "endColumn": 90,
+                    "endOffset": 46420
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 90,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 566,
+                    "startColumn": 4,
+                    "startOffset": 46425,
+                    "endColumn": 103,
+                    "endOffset": 46524
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1504,
+                        "endColumn": 103,
+                        "endOffset": 1603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 567,
+                    "startColumn": 4,
+                    "startOffset": 46529,
+                    "endColumn": 111,
+                    "endOffset": 46636
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 111,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 46641,
+                    "endColumn": 82,
+                    "endOffset": 46719
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 365,
+                        "startColumn": 4,
+                        "startOffset": 28367,
+                        "endColumn": 82,
+                        "endOffset": 28445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 46724,
+                    "endColumn": 166,
+                    "endOffset": 46886
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 4,
+                        "startOffset": 26217,
+                        "endColumn": 166,
+                        "endOffset": 26379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 46891,
+                    "endColumn": 135,
+                    "endOffset": 47022
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 26081,
+                        "endColumn": 135,
+                        "endOffset": 26212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 571,
+                    "startColumn": 4,
+                    "startOffset": 47027,
+                    "endColumn": 136,
+                    "endOffset": 47159
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 25944,
+                        "endColumn": 136,
+                        "endOffset": 26076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 572,
+                    "startColumn": 4,
+                    "startOffset": 47164,
+                    "endColumn": 111,
+                    "endOffset": 47271
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 11995,
+                        "endColumn": 111,
+                        "endOffset": 12102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 573,
+                    "startColumn": 4,
+                    "startOffset": 47276,
+                    "endColumn": 90,
+                    "endOffset": 47362
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 372,
+                        "startColumn": 4,
+                        "startOffset": 28916,
+                        "endColumn": 90,
+                        "endOffset": 29002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 47367,
+                    "endColumn": 92,
+                    "endOffset": 47455
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 92,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 575,
+                    "startColumn": 4,
+                    "startOffset": 47460,
+                    "endColumn": 89,
+                    "endOffset": 47545
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 403,
+                        "startColumn": 4,
+                        "startOffset": 32690,
+                        "endColumn": 89,
+                        "endOffset": 32775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 576,
+                    "startColumn": 4,
+                    "startOffset": 47550,
+                    "endColumn": 65,
+                    "endOffset": 47611
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 10077,
+                        "endColumn": 65,
+                        "endOffset": 10138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 577,
+                    "startColumn": 4,
+                    "startOffset": 47616,
+                    "endColumn": 71,
+                    "endOffset": 47683
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 71,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 578,
+                    "startColumn": 4,
+                    "startOffset": 47688,
+                    "endColumn": 88,
+                    "endOffset": 47772
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1322,
+                        "endColumn": 88,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 579,
+                    "startColumn": 4,
+                    "startOffset": 47777,
+                    "endColumn": 82,
+                    "endOffset": 47855
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 7373,
+                        "endColumn": 82,
+                        "endOffset": 7451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 47860,
+                    "endColumn": 91,
+                    "endOffset": 47947
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 357,
+                        "startColumn": 4,
+                        "startOffset": 27568,
+                        "endColumn": 91,
+                        "endOffset": 27655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 581,
+                    "startColumn": 4,
+                    "startOffset": 47952,
+                    "endColumn": 92,
+                    "endOffset": 48040
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 11609,
+                        "endColumn": 92,
+                        "endOffset": 11697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 582,
+                    "startColumn": 4,
+                    "startOffset": 48045,
+                    "endColumn": 67,
+                    "endOffset": 48108
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 7720,
+                        "endColumn": 67,
+                        "endOffset": 7783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 583,
+                    "startColumn": 4,
+                    "startOffset": 48113,
+                    "endColumn": 87,
+                    "endOffset": 48196
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1697,
+                        "endColumn": 87,
+                        "endOffset": 1780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 584,
+                    "startColumn": 4,
+                    "startOffset": 48201,
+                    "endColumn": 105,
+                    "endOffset": 48302
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 11889,
+                        "endColumn": 105,
+                        "endOffset": 11990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 48307,
+                    "endColumn": 77,
+                    "endOffset": 48380
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 18697,
+                        "endColumn": 77,
+                        "endOffset": 18770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 586,
+                    "startColumn": 4,
+                    "startOffset": 48385,
+                    "endColumn": 91,
+                    "endOffset": 48472
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 19639,
+                        "endColumn": 91,
+                        "endOffset": 19726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 48477,
+                    "endColumn": 96,
+                    "endOffset": 48569
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 19731,
+                        "endColumn": 96,
+                        "endOffset": 19823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 588,
+                    "startColumn": 4,
+                    "startOffset": 48574,
+                    "endColumn": 111,
+                    "endOffset": 48681
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 111,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 589,
+                    "startColumn": 4,
+                    "startOffset": 48686,
+                    "endColumn": 71,
+                    "endOffset": 48753
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 14552,
+                        "endColumn": 71,
+                        "endOffset": 14619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 48758,
+                    "endColumn": 88,
+                    "endOffset": 48842
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14773,
+                        "endColumn": 88,
+                        "endOffset": 14857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 591,
+                    "startColumn": 4,
+                    "startOffset": 48847,
+                    "endColumn": 198,
+                    "endOffset": 49041
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 376,
+                        "startColumn": 4,
+                        "startOffset": 29274,
+                        "endColumn": 210,
+                        "endOffset": 29480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 592,
+                    "startColumn": 4,
+                    "startOffset": 49046,
+                    "endColumn": 108,
+                    "endOffset": 49150
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 396,
+                        "startColumn": 4,
+                        "startOffset": 31685,
+                        "endColumn": 108,
+                        "endOffset": 31789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 593,
+                    "startColumn": 4,
+                    "startOffset": 49155,
+                    "endColumn": 116,
+                    "endOffset": 49267
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 116,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 594,
+                    "startColumn": 4,
+                    "startOffset": 49272,
+                    "endColumn": 68,
+                    "endOffset": 49336
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1785,
+                        "endColumn": 68,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 595,
+                    "startColumn": 4,
+                    "startOffset": 49341,
+                    "endColumn": 81,
+                    "endOffset": 49418
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 12107,
+                        "endColumn": 81,
+                        "endOffset": 12184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 596,
+                    "startColumn": 4,
+                    "startOffset": 49423,
+                    "endColumn": 103,
+                    "endOffset": 49522
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 12578,
+                        "endColumn": 103,
+                        "endOffset": 12677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 597,
+                    "startColumn": 4,
+                    "startOffset": 49527,
+                    "endColumn": 75,
+                    "endOffset": 49598
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 12925,
+                        "endColumn": 75,
+                        "endOffset": 12996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 598,
+                    "startColumn": 4,
+                    "startOffset": 49603,
+                    "endColumn": 76,
+                    "endOffset": 49675
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 13079,
+                        "endColumn": 76,
+                        "endOffset": 13151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 599,
+                    "startColumn": 4,
+                    "startOffset": 49680,
+                    "endColumn": 91,
+                    "endOffset": 49767
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 91,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 600,
+                    "startColumn": 4,
+                    "startOffset": 49772,
+                    "endColumn": 92,
+                    "endOffset": 49860
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 92,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 601,
+                    "startColumn": 4,
+                    "startOffset": 49865,
+                    "endColumn": 77,
+                    "endOffset": 49938
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 13584,
+                        "endColumn": 77,
+                        "endOffset": 13657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 602,
+                    "startColumn": 4,
+                    "startOffset": 49943,
+                    "endColumn": 88,
+                    "endOffset": 50027
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 13662,
+                        "endColumn": 88,
+                        "endOffset": 13746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 603,
+                    "startColumn": 4,
+                    "startOffset": 50032,
+                    "endColumn": 87,
+                    "endOffset": 50115
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 13496,
+                        "endColumn": 87,
+                        "endOffset": 13579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 604,
+                    "startColumn": 4,
+                    "startOffset": 50120,
+                    "endColumn": 102,
+                    "endOffset": 50218
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 13751,
+                        "endColumn": 102,
+                        "endOffset": 13849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 50223,
+                    "endColumn": 94,
+                    "endOffset": 50313
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 13854,
+                        "endColumn": 94,
+                        "endOffset": 13944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 50318,
+                    "endColumn": 84,
+                    "endOffset": 50398
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 13156,
+                        "endColumn": 84,
+                        "endOffset": 13236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 607,
+                    "startColumn": 4,
+                    "startOffset": 50403,
+                    "endColumn": 77,
+                    "endOffset": 50476
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 13001,
+                        "endColumn": 77,
+                        "endOffset": 13074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 608,
+                    "startColumn": 4,
+                    "startOffset": 50481,
+                    "endColumn": 114,
+                    "endOffset": 50591
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 114,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 609,
+                    "startColumn": 4,
+                    "startOffset": 50596,
+                    "endColumn": 75,
+                    "endOffset": 50667
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 14624,
+                        "endColumn": 75,
+                        "endOffset": 14695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 610,
+                    "startColumn": 4,
+                    "startOffset": 50672,
+                    "endColumn": 90,
+                    "endOffset": 50758
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14862,
+                        "endColumn": 90,
+                        "endOffset": 14948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 611,
+                    "startColumn": 4,
+                    "startOffset": 50763,
+                    "endColumn": 125,
+                    "endOffset": 50884
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4617,
+                        "endColumn": 125,
+                        "endOffset": 4738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 612,
+                    "startColumn": 4,
+                    "startOffset": 50889,
+                    "endColumn": 90,
+                    "endOffset": 50975
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 11702,
+                        "endColumn": 90,
+                        "endOffset": 11788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 613,
+                    "startColumn": 4,
+                    "startOffset": 50980,
+                    "endColumn": 133,
+                    "endOffset": 51109
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 28099,
+                        "endColumn": 137,
+                        "endOffset": 28232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 614,
+                    "startColumn": 4,
+                    "startOffset": 51114,
+                    "endColumn": 131,
+                    "endOffset": 51241
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 4,
+                        "startOffset": 27115,
+                        "endColumn": 135,
+                        "endOffset": 27246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 615,
+                    "startColumn": 4,
+                    "startOffset": 51246,
+                    "endColumn": 125,
+                    "endOffset": 51367
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 27442,
+                        "endColumn": 125,
+                        "endOffset": 27563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 616,
+                    "startColumn": 4,
+                    "startOffset": 51372,
+                    "endColumn": 84,
+                    "endOffset": 51452
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 4,
+                        "startOffset": 27357,
+                        "endColumn": 84,
+                        "endOffset": 27437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 617,
+                    "startColumn": 4,
+                    "startOffset": 51457,
+                    "endColumn": 95,
+                    "endOffset": 51548
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 11793,
+                        "endColumn": 95,
+                        "endOffset": 11884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 618,
+                    "startColumn": 4,
+                    "startOffset": 51553,
+                    "endColumn": 175,
+                    "endOffset": 51724
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 4,
+                        "startOffset": 29485,
+                        "endColumn": 183,
+                        "endOffset": 29664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 619,
+                    "startColumn": 4,
+                    "startOffset": 51729,
+                    "endColumn": 137,
+                    "endOffset": 51862
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 386,
+                        "startColumn": 4,
+                        "startOffset": 30564,
+                        "endColumn": 137,
+                        "endOffset": 30697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 620,
+                    "startColumn": 4,
+                    "startOffset": 51867,
+                    "endColumn": 81,
+                    "endOffset": 51944
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 373,
+                        "startColumn": 4,
+                        "startOffset": 29007,
+                        "endColumn": 81,
+                        "endOffset": 29084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 621,
+                    "startColumn": 4,
+                    "startOffset": 51949,
+                    "endColumn": 85,
+                    "endOffset": 52030
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 374,
+                        "startColumn": 4,
+                        "startOffset": 29089,
+                        "endColumn": 85,
+                        "endOffset": 29170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 622,
+                    "startColumn": 4,
+                    "startOffset": 52035,
+                    "endColumn": 115,
+                    "endOffset": 52146
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 380,
+                        "startColumn": 4,
+                        "startOffset": 29881,
+                        "endColumn": 115,
+                        "endOffset": 29992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 623,
+                    "startColumn": 4,
+                    "startOffset": 52151,
+                    "endColumn": 110,
+                    "endOffset": 52257
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 397,
+                        "startColumn": 4,
+                        "startOffset": 31794,
+                        "endColumn": 110,
+                        "endOffset": 31900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 624,
+                    "startColumn": 4,
+                    "startOffset": 52262,
+                    "endColumn": 88,
+                    "endOffset": 52346
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8525,
+                        "endColumn": 88,
+                        "endOffset": 8609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 625,
+                    "startColumn": 4,
+                    "startOffset": 52351,
+                    "endColumn": 109,
+                    "endOffset": 52456
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 405,
+                        "startColumn": 4,
+                        "startOffset": 32920,
+                        "endColumn": 109,
+                        "endOffset": 33025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 626,
+                    "startColumn": 4,
+                    "startOffset": 52461,
+                    "endColumn": 100,
+                    "endOffset": 52557
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 379,
+                        "startColumn": 4,
+                        "startOffset": 29780,
+                        "endColumn": 100,
+                        "endOffset": 29876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 627,
+                    "startColumn": 4,
+                    "startOffset": 52562,
+                    "endColumn": 110,
+                    "endOffset": 52668
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 378,
+                        "startColumn": 4,
+                        "startOffset": 29669,
+                        "endColumn": 110,
+                        "endOffset": 29775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 628,
+                    "startColumn": 4,
+                    "startOffset": 52673,
+                    "endColumn": 96,
+                    "endOffset": 52765
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 389,
+                        "startColumn": 4,
+                        "startOffset": 30963,
+                        "endColumn": 96,
+                        "endOffset": 31055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 629,
+                    "startColumn": 4,
+                    "startOffset": 52770,
+                    "endColumn": 98,
+                    "endOffset": 52864
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 375,
+                        "startColumn": 4,
+                        "startOffset": 29175,
+                        "endColumn": 98,
+                        "endOffset": 29269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 630,
+                    "startColumn": 4,
+                    "startOffset": 52869,
+                    "endColumn": 79,
+                    "endOffset": 52944
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1930,
+                        "endColumn": 79,
+                        "endOffset": 2005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 631,
+                    "startColumn": 4,
+                    "startOffset": 52949,
+                    "endColumn": 75,
+                    "endOffset": 53020
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 75,
+                        "endOffset": 1925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 632,
+                    "startColumn": 4,
+                    "startOffset": 53025,
+                    "endColumn": 105,
+                    "endOffset": 53126
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 19019,
+                        "endColumn": 105,
+                        "endOffset": 19120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 633,
+                    "startColumn": 4,
+                    "startOffset": 53131,
+                    "endColumn": 139,
+                    "endOffset": 53266
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 404,
+                        "startColumn": 4,
+                        "startOffset": 32780,
+                        "endColumn": 139,
+                        "endOffset": 32915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 634,
+                    "startColumn": 4,
+                    "startOffset": 53271,
+                    "endColumn": 72,
+                    "endOffset": 53339
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 10143,
+                        "endColumn": 72,
+                        "endOffset": 10211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 635,
+                    "startColumn": 4,
+                    "startOffset": 53344,
+                    "endColumn": 75,
+                    "endOffset": 53415
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2632,
+                        "endColumn": 75,
+                        "endOffset": 2703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 636,
+                    "startColumn": 4,
+                    "startOffset": 53420,
+                    "endColumn": 87,
+                    "endOffset": 53503
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 12189,
+                        "endColumn": 87,
+                        "endOffset": 12272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 637,
+                    "startColumn": 4,
+                    "startOffset": 53508,
+                    "endColumn": 105,
+                    "endOffset": 53609
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 4,
+                        "startOffset": 27251,
+                        "endColumn": 105,
+                        "endOffset": 27352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 638,
+                    "startColumn": 4,
+                    "startOffset": 53614,
+                    "endColumn": 85,
+                    "endOffset": 53695
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2061,
+                        "endColumn": 85,
+                        "endOffset": 2142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 639,
+                    "startColumn": 4,
+                    "startOffset": 53700,
+                    "endColumn": 72,
+                    "endOffset": 53768
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 14700,
+                        "endColumn": 72,
+                        "endOffset": 14768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 640,
+                    "startColumn": 4,
+                    "startOffset": 53773,
+                    "endColumn": 92,
+                    "endOffset": 53861
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 14953,
+                        "endColumn": 92,
+                        "endOffset": 15041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 641,
+                    "startColumn": 4,
+                    "startOffset": 53866,
+                    "endColumn": 100,
+                    "endOffset": 53962
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 100,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 642,
+                    "startColumn": 4,
+                    "startOffset": 53967,
+                    "endColumn": 94,
+                    "endOffset": 54057
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 94,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 643,
+                    "startColumn": 4,
+                    "startOffset": 54062,
+                    "endColumn": 97,
+                    "endOffset": 54155
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 97,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 644,
+                    "startColumn": 4,
+                    "startOffset": 54160,
+                    "endColumn": 92,
+                    "endOffset": 54248
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 92,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 645,
+                    "startColumn": 4,
+                    "startOffset": 54253,
+                    "endColumn": 100,
+                    "endOffset": 54349
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 13949,
+                        "endColumn": 100,
+                        "endOffset": 14045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 646,
+                    "startColumn": 4,
+                    "startOffset": 54354,
+                    "endColumn": 84,
+                    "endOffset": 54434
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2089,
+                        "endColumn": 84,
+                        "endOffset": 2169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 647,
+                    "startColumn": 4,
+                    "startOffset": 54439,
+                    "endColumn": 77,
+                    "endOffset": 54512
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 7788,
+                        "endColumn": 77,
+                        "endOffset": 7861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 648,
+                    "startColumn": 4,
+                    "startOffset": 54517,
+                    "endColumn": 88,
+                    "endOffset": 54601
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1608,
+                        "endColumn": 88,
+                        "endOffset": 1692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 649,
+                    "startColumn": 4,
+                    "startOffset": 54606,
+                    "endColumn": 90,
+                    "endOffset": 54692
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 10375,
+                        "endColumn": 90,
+                        "endOffset": 10461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 650,
+                    "startColumn": 4,
+                    "startOffset": 54697,
+                    "endColumn": 96,
+                    "endOffset": 54789
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2535,
+                        "endColumn": 96,
+                        "endOffset": 2627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 651,
+                    "startColumn": 4,
+                    "startOffset": 54794,
+                    "endColumn": 65,
+                    "endOffset": 54855
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 27917,
+                        "endColumn": 65,
+                        "endOffset": 27978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 652,
+                    "startColumn": 4,
+                    "startOffset": 54860,
+                    "endColumn": 102,
+                    "endOffset": 54958
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 7866,
+                        "endColumn": 102,
+                        "endOffset": 7964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 653,
+                    "startColumn": 4,
+                    "startOffset": 54963,
+                    "endColumn": 100,
+                    "endOffset": 55059
+                },
+                "from": {
+                    "file": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2147,
+                        "endColumn": 100,
+                        "endOffset": 2243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 654,
+                    "startColumn": 4,
+                    "startOffset": 55064,
+                    "endColumn": 113,
+                    "endOffset": 55173
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 381,
+                        "startColumn": 4,
+                        "startOffset": 29997,
+                        "endColumn": 113,
+                        "endOffset": 30106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 655,
+                    "startColumn": 4,
+                    "startOffset": 55178,
+                    "endColumn": 116,
+                    "endOffset": 55290
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 384,
+                        "startColumn": 4,
+                        "startOffset": 30338,
+                        "endColumn": 116,
+                        "endOffset": 30450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 656,
+                    "startColumn": 4,
+                    "startOffset": 55295,
+                    "endColumn": 112,
+                    "endOffset": 55403
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 382,
+                        "startColumn": 4,
+                        "startOffset": 30111,
+                        "endColumn": 112,
+                        "endOffset": 30219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 657,
+                    "startColumn": 4,
+                    "startOffset": 55408,
+                    "endColumn": 113,
+                    "endOffset": 55517
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 383,
+                        "startColumn": 4,
+                        "startOffset": 30224,
+                        "endColumn": 113,
+                        "endOffset": 30333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 658,
+                    "startColumn": 4,
+                    "startOffset": 55522,
+                    "endColumn": 140,
+                    "endOffset": 55658
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 25723,
+                        "endColumn": 140,
+                        "endOffset": 25859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 659,
+                    "startColumn": 4,
+                    "startOffset": 55663,
+                    "endColumn": 108,
+                    "endOffset": 55767
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 385,
+                        "startColumn": 4,
+                        "startOffset": 30455,
+                        "endColumn": 108,
+                        "endOffset": 30559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 660,
+                    "startColumn": 4,
+                    "startOffset": 55772,
+                    "endColumn": 82,
+                    "endOffset": 55850
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 14386,
+                        "endColumn": 82,
+                        "endOffset": 14464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 661,
+                    "startColumn": 4,
+                    "startOffset": 55855,
+                    "endColumn": 119,
+                    "endOffset": 55970
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 15319,
+                        "endColumn": 123,
+                        "endOffset": 15438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 662,
+                    "startColumn": 4,
+                    "startOffset": 55975,
+                    "endColumn": 79,
+                    "endOffset": 56050
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 14306,
+                        "endColumn": 79,
+                        "endOffset": 14381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 663,
+                    "startColumn": 4,
+                    "startOffset": 56055,
+                    "endColumn": 87,
+                    "endOffset": 56138
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 14135,
+                        "endColumn": 87,
+                        "endOffset": 14218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 664,
+                    "startColumn": 4,
+                    "startOffset": 56143,
+                    "endColumn": 84,
+                    "endOffset": 56223
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 14050,
+                        "endColumn": 84,
+                        "endOffset": 14130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 665,
+                    "startColumn": 4,
+                    "startOffset": 56228,
+                    "endColumn": 82,
+                    "endOffset": 56306
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 14469,
+                        "endColumn": 82,
+                        "endOffset": 14547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 666,
+                    "startColumn": 4,
+                    "startOffset": 56311,
+                    "endColumn": 89,
+                    "endOffset": 56396
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 15229,
+                        "endColumn": 89,
+                        "endOffset": 15314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 667,
+                    "startColumn": 4,
+                    "startOffset": 56401,
+                    "endColumn": 113,
+                    "endOffset": 56510
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 15111,
+                        "endColumn": 117,
+                        "endOffset": 15224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 668,
+                    "startColumn": 4,
+                    "startOffset": 56515,
+                    "endColumn": 82,
+                    "endOffset": 56593
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 14223,
+                        "endColumn": 82,
+                        "endOffset": 14301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 669,
+                    "startColumn": 4,
+                    "startOffset": 56598,
+                    "endColumn": 79,
+                    "endOffset": 56673
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 25864,
+                        "endColumn": 79,
+                        "endOffset": 25939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 670,
+                    "startColumn": 4,
+                    "startOffset": 56678,
+                    "endColumn": 112,
+                    "endOffset": 56786
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 399,
+                        "startColumn": 4,
+                        "startOffset": 32044,
+                        "endColumn": 112,
+                        "endOffset": 32152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 671,
+                    "startColumn": 4,
+                    "startOffset": 56791,
+                    "endColumn": 138,
+                    "endOffset": 56925
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 398,
+                        "startColumn": 4,
+                        "startOffset": 31905,
+                        "endColumn": 138,
+                        "endOffset": 32039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 672,
+                    "startColumn": 4,
+                    "startOffset": 56930,
+                    "endColumn": 68,
+                    "endOffset": 56994
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2708,
+                        "endColumn": 68,
+                        "endOffset": 2772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 673,
+                    "startColumn": 4,
+                    "startOffset": 56999,
+                    "endColumn": 82,
+                    "endOffset": 57077
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 20161,
+                        "endColumn": 82,
+                        "endOffset": 20239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 674,
+                    "startColumn": 4,
+                    "startOffset": 57082,
+                    "endColumn": 82,
+                    "endOffset": 57160
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 20244,
+                        "endColumn": 82,
+                        "endOffset": 20322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 675,
+                    "startColumn": 4,
+                    "startOffset": 57165,
+                    "endColumn": 83,
+                    "endOffset": 57244
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 20077,
+                        "endColumn": 83,
+                        "endOffset": 20156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 676,
+                    "startColumn": 4,
+                    "startOffset": 57249,
+                    "endColumn": 84,
+                    "endOffset": 57329
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 19828,
+                        "endColumn": 84,
+                        "endOffset": 19908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 677,
+                    "startColumn": 4,
+                    "startOffset": 57334,
+                    "endColumn": 75,
+                    "endOffset": 57405
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 19913,
+                        "endColumn": 75,
+                        "endOffset": 19984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 678,
+                    "startColumn": 4,
+                    "startOffset": 57410,
+                    "endColumn": 87,
+                    "endOffset": 57493
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 4,
+                        "startOffset": 19989,
+                        "endColumn": 87,
+                        "endOffset": 20072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 679,
+                    "startColumn": 4,
+                    "startOffset": 57498,
+                    "endColumn": 92,
+                    "endOffset": 57586
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 16209,
+                        "endColumn": 92,
+                        "endOffset": 16297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 680,
+                    "startColumn": 4,
+                    "startOffset": 57591,
+                    "endColumn": 78,
+                    "endOffset": 57665
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 17048,
+                        "endColumn": 78,
+                        "endOffset": 17122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 681,
+                    "startColumn": 4,
+                    "startOffset": 57670,
+                    "endColumn": 98,
+                    "endOffset": 57764
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 17127,
+                        "endColumn": 98,
+                        "endOffset": 17221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 682,
+                    "startColumn": 4,
+                    "startOffset": 57769,
+                    "endColumn": 100,
+                    "endOffset": 57865
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 392,
+                        "startColumn": 4,
+                        "startOffset": 31281,
+                        "endColumn": 100,
+                        "endOffset": 31377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 683,
+                    "startColumn": 4,
+                    "startOffset": 57870,
+                    "endColumn": 80,
+                    "endOffset": 57946
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 16379,
+                        "endColumn": 80,
+                        "endOffset": 16455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 684,
+                    "startColumn": 4,
+                    "startOffset": 57951,
+                    "endColumn": 107,
+                    "endOffset": 58054
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 370,
+                        "startColumn": 4,
+                        "startOffset": 28701,
+                        "endColumn": 107,
+                        "endOffset": 28804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 685,
+                    "startColumn": 4,
+                    "startOffset": 58059,
+                    "endColumn": 99,
+                    "endOffset": 58154
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 394,
+                        "startColumn": 4,
+                        "startOffset": 31488,
+                        "endColumn": 99,
+                        "endOffset": 31583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 686,
+                    "startColumn": 4,
+                    "startOffset": 58159,
+                    "endColumn": 143,
+                    "endOffset": 58298
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 16460,
+                        "endColumn": 147,
+                        "endOffset": 16603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 687,
+                    "startColumn": 4,
+                    "startOffset": 58303,
+                    "endColumn": 106,
+                    "endOffset": 58405
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 391,
+                        "startColumn": 4,
+                        "startOffset": 31174,
+                        "endColumn": 106,
+                        "endOffset": 31276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 688,
+                    "startColumn": 4,
+                    "startOffset": 58410,
+                    "endColumn": 134,
+                    "endOffset": 58540
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 17320,
+                        "endColumn": 138,
+                        "endOffset": 17454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 689,
+                    "startColumn": 4,
+                    "startOffset": 58545,
+                    "endColumn": 91,
+                    "endOffset": 58632
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 17459,
+                        "endColumn": 91,
+                        "endOffset": 17546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 690,
+                    "startColumn": 4,
+                    "startOffset": 58637,
+                    "endColumn": 150,
+                    "endOffset": 58783
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4855,
+                        "endColumn": 158,
+                        "endOffset": 5009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 691,
+                    "startColumn": 4,
+                    "startOffset": 58788,
+                    "endColumn": 163,
+                    "endOffset": 58947
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5177,
+                        "endColumn": 171,
+                        "endOffset": 5344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 692,
+                    "startColumn": 4,
+                    "startOffset": 58952,
+                    "endColumn": 111,
+                    "endOffset": 59059
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4743,
+                        "endColumn": 111,
+                        "endOffset": 4850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 693,
+                    "startColumn": 4,
+                    "startOffset": 59064,
+                    "endColumn": 154,
+                    "endOffset": 59214
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5014,
+                        "endColumn": 162,
+                        "endOffset": 5172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 694,
+                    "startColumn": 4,
+                    "startOffset": 59219,
+                    "endColumn": 81,
+                    "endOffset": 59296
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 17660,
+                        "endColumn": 81,
+                        "endOffset": 17737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 695,
+                    "startColumn": 4,
+                    "startOffset": 59301,
+                    "endColumn": 90,
+                    "endOffset": 59387
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 4,
+                        "startOffset": 26657,
+                        "endColumn": 90,
+                        "endOffset": 26743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 696,
+                    "startColumn": 4,
+                    "startOffset": 59392,
+                    "endColumn": 88,
+                    "endOffset": 59476
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 16698,
+                        "endColumn": 88,
+                        "endOffset": 16782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 697,
+                    "startColumn": 4,
+                    "startOffset": 59481,
+                    "endColumn": 89,
+                    "endOffset": 59566
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 16608,
+                        "endColumn": 89,
+                        "endOffset": 16693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 698,
+                    "startColumn": 4,
+                    "startOffset": 59571,
+                    "endColumn": 87,
+                    "endOffset": 59654
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5435,
+                        "endColumn": 87,
+                        "endOffset": 5518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 699,
+                    "startColumn": 4,
+                    "startOffset": 59659,
+                    "endColumn": 85,
+                    "endOffset": 59740
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5349,
+                        "endColumn": 85,
+                        "endOffset": 5430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 700,
+                    "startColumn": 4,
+                    "startOffset": 59745,
+                    "endColumn": 83,
+                    "endOffset": 59824
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 16964,
+                        "endColumn": 83,
+                        "endOffset": 17043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 701,
+                    "startColumn": 4,
+                    "startOffset": 59829,
+                    "endColumn": 91,
+                    "endOffset": 59916
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 17742,
+                        "endColumn": 91,
+                        "endOffset": 17829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 702,
+                    "startColumn": 4,
+                    "startOffset": 59921,
+                    "endColumn": 149,
+                    "endOffset": 60066
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 12682,
+                        "endColumn": 149,
+                        "endOffset": 12827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 703,
+                    "startColumn": 4,
+                    "startOffset": 60071,
+                    "endColumn": 99,
+                    "endOffset": 60166
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 26467,
+                        "endColumn": 99,
+                        "endOffset": 26562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 704,
+                    "startColumn": 4,
+                    "startOffset": 60171,
+                    "endColumn": 133,
+                    "endOffset": 60300
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 25589,
+                        "endColumn": 133,
+                        "endOffset": 25718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 705,
+                    "startColumn": 4,
+                    "startOffset": 60305,
+                    "endColumn": 82,
+                    "endOffset": 60383
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 4,
+                        "startOffset": 26384,
+                        "endColumn": 82,
+                        "endOffset": 26462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 706,
+                    "startColumn": 4,
+                    "startOffset": 60388,
+                    "endColumn": 76,
+                    "endOffset": 60460
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 16302,
+                        "endColumn": 76,
+                        "endOffset": 16374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 707,
+                    "startColumn": 4,
+                    "startOffset": 60465,
+                    "endColumn": 96,
+                    "endOffset": 60557
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 395,
+                        "startColumn": 4,
+                        "startOffset": 31588,
+                        "endColumn": 96,
+                        "endOffset": 31680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 708,
+                    "startColumn": 4,
+                    "startOffset": 60562,
+                    "endColumn": 76,
+                    "endOffset": 60634
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 16787,
+                        "endColumn": 76,
+                        "endOffset": 16859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 709,
+                    "startColumn": 4,
+                    "startOffset": 60639,
+                    "endColumn": 99,
+                    "endOffset": 60734
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 16864,
+                        "endColumn": 99,
+                        "endOffset": 16959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 710,
+                    "startColumn": 4,
+                    "startOffset": 60739,
+                    "endColumn": 89,
+                    "endOffset": 60824
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 348,
+                        "startColumn": 4,
+                        "startOffset": 26567,
+                        "endColumn": 89,
+                        "endOffset": 26652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 711,
+                    "startColumn": 4,
+                    "startOffset": 60829,
+                    "endColumn": 93,
+                    "endOffset": 60918
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 17226,
+                        "endColumn": 93,
+                        "endOffset": 17315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 712,
+                    "startColumn": 4,
+                    "startOffset": 60923,
+                    "endColumn": 105,
+                    "endOffset": 61024
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 393,
+                        "startColumn": 4,
+                        "startOffset": 31382,
+                        "endColumn": 105,
+                        "endOffset": 31483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 713,
+                    "startColumn": 4,
+                    "startOffset": 61029,
+                    "endColumn": 111,
+                    "endOffset": 61136
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 26999,
+                        "endColumn": 115,
+                        "endOffset": 27110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 714,
+                    "startColumn": 4,
+                    "startOffset": 61141,
+                    "endColumn": 108,
+                    "endOffset": 61245
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 17551,
+                        "endColumn": 108,
+                        "endOffset": 17655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 715,
+                    "startColumn": 4,
+                    "startOffset": 61250,
+                    "endColumn": 124,
+                    "endOffset": 61370
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 4,
+                        "startOffset": 26748,
+                        "endColumn": 128,
+                        "endOffset": 26872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 716,
+                    "startColumn": 4,
+                    "startOffset": 61375,
+                    "endColumn": 113,
+                    "endOffset": 61484
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 390,
+                        "startColumn": 4,
+                        "startOffset": 31060,
+                        "endColumn": 113,
+                        "endOffset": 31169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 717,
+                    "startColumn": 4,
+                    "startOffset": 61489,
+                    "endColumn": 89,
+                    "endOffset": 61574
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 10466,
+                        "endColumn": 89,
+                        "endOffset": 10551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 718,
+                    "startColumn": 4,
+                    "startOffset": 61579,
+                    "endColumn": 102,
+                    "endOffset": 61677
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 11053,
+                        "endColumn": 102,
+                        "endOffset": 11151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 719,
+                    "startColumn": 4,
+                    "startOffset": 61682,
+                    "endColumn": 103,
+                    "endOffset": 61781
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 10949,
+                        "endColumn": 103,
+                        "endOffset": 11048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 720,
+                    "startColumn": 4,
+                    "startOffset": 61786,
+                    "endColumn": 140,
+                    "endOffset": 61922
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 12277,
+                        "endColumn": 140,
+                        "endOffset": 12413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 721,
+                    "startColumn": 4,
+                    "startOffset": 61927,
+                    "endColumn": 101,
+                    "endOffset": 62024
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 9751,
+                        "endColumn": 101,
+                        "endOffset": 9848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 722,
+                    "startColumn": 4,
+                    "startOffset": 62029,
+                    "endColumn": 111,
+                    "endOffset": 62136
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 4,
+                        "startOffset": 27983,
+                        "endColumn": 115,
+                        "endOffset": 28094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 723,
+                    "startColumn": 4,
+                    "startOffset": 62141,
+                    "endColumn": 98,
+                    "endOffset": 62235
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 98,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 724,
+                    "startColumn": 4,
+                    "startOffset": 62240,
+                    "endColumn": 64,
+                    "endOffset": 62300
+                },
+                "from": {
+                    "file": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 15046,
+                        "endColumn": 64,
+                        "endOffset": 15106
+                    }
+                }
+            }
+        ]
+    }
+]

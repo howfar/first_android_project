@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v22\\ic_tab_timer.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-v22\\ic_tab_timer.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v22\\ic_tab_alarm.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-v22\\ic_tab_alarm.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v22\\ic_tab_stopwatch.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-v22\\ic_tab_stopwatch.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v22\\ic_tab_clock.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-v22\\ic_tab_clock.xml"
+    }
+]

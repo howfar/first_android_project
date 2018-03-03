@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\xml\\digital_appwidget.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\xml\\digital_appwidget.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\xml\\dream_settings.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\xml\\dream_settings.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\xml\\dream_info.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\xml\\dream_info.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\xml\\backup_scheme.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\xml\\backup_scheme.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\xml\\analog_appwidget.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\xml\\analog_appwidget.xml"
+    }
+]

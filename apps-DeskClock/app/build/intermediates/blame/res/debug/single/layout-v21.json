@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\stopwatch_notif_expanded.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\layout-v21\\stopwatch_notif_expanded.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

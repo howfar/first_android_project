@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\alarm_clock.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\layout-sw600dp-land\\alarm_clock.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\date_picker_dialog.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\layout-sw600dp-land-v13\\date_picker_dialog.xml"
+    }
+]

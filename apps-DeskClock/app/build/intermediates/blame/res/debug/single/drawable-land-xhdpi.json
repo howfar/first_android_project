@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\clock_analog_minute.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-land-xhdpi\\clock_analog_minute.png"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\clock_analog_second.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-land-xhdpi\\clock_analog_second.png"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\clock_analog_dial.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-land-xhdpi\\clock_analog_dial.png"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi\\clock_analog_hour.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-land-xhdpi\\clock_analog_hour.png"
+    }
+]

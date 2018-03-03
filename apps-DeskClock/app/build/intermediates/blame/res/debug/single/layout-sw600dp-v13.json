@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\gsy\\.android\\build-cache\\28655f874ead28393dff6455723fdb0781b5faa2\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\date_picker_dialog.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\layout-sw600dp-v13\\date_picker_dialog.xml"
+    }
+]
