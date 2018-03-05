@@ -169,10 +169,12 @@ public class HandleDeskClockApiCalls extends Activity {
             LogUtils.i(reason);
         }
 
+        /*
         // Open the UI to the stopwatch.
         final Intent stopwatchIntent = new Intent(mAppContext, DeskClock.class)
                 .putExtra(DeskClock.SELECT_TAB_INTENT_EXTRA, DeskClock.STOPWATCH_TAB_INDEX);
         startActivity(stopwatchIntent);
+        */
     }
 
     private void handleTimerIntent(Intent intent) {
@@ -246,6 +248,7 @@ public class HandleDeskClockApiCalls extends Activity {
             LogUtils.i(reason);
         }
 
+        /*
         // Open the UI to the timers.
         final Intent showTimers = new Intent(mAppContext, DeskClock.class)
                 .putExtra(DeskClock.SELECT_TAB_INTENT_EXTRA, DeskClock.TIMER_TAB_INDEX);
@@ -253,6 +256,7 @@ public class HandleDeskClockApiCalls extends Activity {
             showTimers.putExtra(EXTRA_TIMER_ID, timerId);
         }
         startActivity(showTimers);
+        */
     }
 
     private void handleClockIntent(Intent intent) {

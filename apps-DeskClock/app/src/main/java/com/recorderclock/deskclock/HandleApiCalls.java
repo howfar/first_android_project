@@ -329,12 +329,13 @@ public class HandleApiCalls extends Activity {
     }
 
     private void handleSetTimer(Intent intent) {
+        /*
         // If no length is supplied, show the timer setup view.
         if (!intent.hasExtra(AlarmClock.EXTRA_LENGTH)) {
             startActivity(TimerFragment.createTimerSetupIntent(this));
             LogUtils.i("HandleApiCalls showing timer setup");
             return;
-        }
+        }*/
 
         // Verify that the timer length is between one second and one day.
         final long lengthMillis = SECOND_IN_MILLIS * intent.getIntExtra(AlarmClock.EXTRA_LENGTH, 0);
@@ -368,13 +369,14 @@ public class HandleApiCalls extends Activity {
         DataModel.getDataModel().startTimer(timer);
         Events.sendTimerEvent(R.string.action_start, R.string.label_intent);
         Voice.notifySuccess(this, getString(R.string.timer_created));
-
+/*
         // If not instructed to skip the UI, display the running timer.
         if (!skipUi) {
             startActivity(new Intent(this, DeskClock.class)
                     .putExtra(DeskClock.SELECT_TAB_INTENT_EXTRA, DeskClock.TIMER_TAB_INDEX)
                     .putExtra(HandleDeskClockApiCalls.EXTRA_TIMER_ID, timer.getId()));
         }
+        */
     }
 
     private void setupInstance(AlarmInstance instance, boolean skipUi) {

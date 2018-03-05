@@ -67,43 +67,44 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity-alias
-            android:name="com.recorderclock.deskclock.DockClock"
-            android:enabled="@bool/config_dockAppEnabled"
-            android:icon="@mipmap/ic_launcher_alarmclock"
-            android:label="@string/app_label"
-            android:launchMode="singleTask"
-            android:targetActivity="com.recorderclock.deskclock.DeskClock"
-            android:theme="@style/DeskClockTheme" >
+        <!--
+        <activity-alias android:name="DockClock"
+                android:targetActivity="DeskClock"
+                android:label="@string/app_label"
+                android:theme="@style/DeskClockTheme"
+                android:icon="@mipmap/ic_launcher_alarmclock"
+                android:launchMode="singleTask"
+                android:enabled="@bool/config_dockAppEnabled"
+                >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.DESK_DOCK" />
             </intent-filter>
         </activity-alias>
 
-        <activity
-            android:name="com.recorderclock.deskclock.settings.SettingsActivity"
-            android:excludeFromRecents="true"
-            android:label="@string/settings"
-            android:taskAffinity=""
-            android:theme="@style/SettingsTheme" >
+        <activity android:name=".settings.SettingsActivity"
+                android:label="@string/settings"
+                android:theme="@style/SettingsTheme"
+                android:taskAffinity=""
+                android:excludeFromRecents="true"
+                >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.recorderclock.deskclock.worldclock.CitySelectionActivity"
-            android:excludeFromRecents="true"
-            android:label="@string/cities_activity_title"
-            android:taskAffinity=""
-            android:theme="@style/CitiesTheme" >
+
+        <activity android:name=".worldclock.CitySelectionActivity"
+                android:label="@string/cities_activity_title"
+                android:theme="@style/CitiesTheme"
+                android:taskAffinity=""
+                android:excludeFromRecents="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
+        -->
+
         <activity
             android:name="com.recorderclock.deskclock.alarms.AlarmActivity"
             android:directBootAware="true"
@@ -170,12 +171,12 @@
             </intent-filter>
         </activity>
 
-        <activity-alias
-            android:name="com.recorderclock.deskclock.HandleSetAlarm"
-            android:exported="true"
-            android:targetActivity="com.recorderclock.deskclock.HandleApiCalls" >
+        <!--
+        <activity-alias android:name="HandleSetAlarm"
+            android:targetActivity=".HandleApiCalls"
+            android:exported="true">
         </activity-alias>
-
+        -->
         <activity
             android:name="com.recorderclock.deskclock.HandleDeskClockApiCalls"
             android:excludeFromRecents="true"

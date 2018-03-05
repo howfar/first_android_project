@@ -6,22 +6,22 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1520084358279"
+    timestamp="1520256535516"
     token="-3908423021316402668"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="703" />
+        duration="826" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="699" />
+        duration="854" />
     <task
         name="verifier"
-        duration="310" />
+        duration="334" />
 
     <artifact
         location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -30,31 +30,31 @@
         location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
         location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
         location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
         location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
         location="F:\android\source\apps-DeskClock\app\build\outputs\apk\app-debug.apk"
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1520084358279"
+        timestamp="1520256535516"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -71,31 +71,31 @@
             location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
             location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\android\source\apps-DeskClock\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="F:\android\source\apps-DeskClock\app\build\outputs\apk\app-debug.apk"

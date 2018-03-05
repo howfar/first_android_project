@@ -33,7 +33,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.accessibility.AccessibilityManager;
 
-import com.recorderclock.deskclock.DeskClock;
 import com.recorderclock.deskclock.DeskClockFragment;
 import com.recorderclock.deskclock.LogUtils;
 import com.recorderclock.deskclock.R;
@@ -180,11 +179,14 @@ public final class StopwatchFragment extends DeskClockFragment {
 
     @Override
     public void onPageChanged(int page) {
+        /*
         if (page == DeskClock.STOPWATCH_TAB_INDEX && getStopwatch().isRunning()) {
             acquireWakeLock();
         } else {
             releaseWakeLock();
         }
+        */
+        releaseWakeLock();
     }
 
     @Override
@@ -211,9 +213,10 @@ public final class StopwatchFragment extends DeskClockFragment {
 
     @Override
     public void setFabAppearance() {
+        /*
         if (mFab == null || getSelectedTab() != DeskClock.STOPWATCH_TAB_INDEX) {
             return;
-        }
+        }*/
 
         if (getStopwatch().isRunning()) {
             mFab.setImageResource(R.drawable.ic_pause_white_24dp);
@@ -227,10 +230,11 @@ public final class StopwatchFragment extends DeskClockFragment {
 
     @Override
     public void setLeftRightButtonAppearance() {
+        /*
         if (mLeftButton == null || mRightButton == null ||
                 getSelectedTab() != DeskClock.STOPWATCH_TAB_INDEX) {
             return;
-        }
+        }*/
 
         mRightButton.setImageResource(R.drawable.ic_share);
         mRightButton.setContentDescription(getString(R.string.sw_share_button));

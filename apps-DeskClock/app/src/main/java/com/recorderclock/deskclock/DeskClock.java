@@ -47,7 +47,6 @@ import com.recorderclock.deskclock.alarms.AlarmStateManager;
 import com.recorderclock.deskclock.data.DataModel;
 import com.recorderclock.deskclock.events.Events;
 import com.recorderclock.deskclock.provider.Alarm;
-import com.recorderclock.deskclock.stopwatch.StopwatchFragment;
 import com.recorderclock.deskclock.timer.TimerFragment;
 import com.recorderclock.deskclock.widget.RtlViewPager;
 
@@ -69,8 +68,8 @@ public class DeskClock extends BaseActivity
 
     public static final int ALARM_TAB_INDEX = 0;
     public static final int CLOCK_TAB_INDEX = 1;
-    public static final int TIMER_TAB_INDEX = 2;
-    public static final int STOPWATCH_TAB_INDEX = 3;
+    //public static final int TIMER_TAB_INDEX = 2;
+    //public static final int STOPWATCH_TAB_INDEX = 3;
 
     private final ActionBarMenuManager mActionBarMenuManager = new ActionBarMenuManager(this);
 
@@ -117,6 +116,7 @@ public class DeskClock extends BaseActivity
         clockTab.setIcon(R.drawable.ic_tab_clock).setContentDescription(R.string.menu_clock);
         mTabsAdapter.addTab(clockTab, ClockFragment.class, CLOCK_TAB_INDEX);
 
+        /*
         final Tab timerTab = mTabLayout.newTab();
         timerTab.setIcon(R.drawable.ic_tab_timer).setContentDescription(R.string.menu_timer);
         mTabsAdapter.addTab(timerTab, TimerFragment.class, TIMER_TAB_INDEX);
@@ -125,6 +125,7 @@ public class DeskClock extends BaseActivity
         stopwatchTab.setIcon(R.drawable.ic_tab_stopwatch)
                 .setContentDescription(R.string.menu_stopwatch);
         mTabsAdapter.addTab(stopwatchTab, StopwatchFragment.class, STOPWATCH_TAB_INDEX);
+        */
 
         mTabLayout.getTabAt(mSelectedTab).select();
         mViewPager.setCurrentItem(mSelectedTab);
@@ -390,12 +391,14 @@ public class DeskClock extends BaseActivity
                     case CLOCK_TAB_INDEX:
                         Events.sendClockEvent(R.string.action_show, R.string.label_deskclock);
                         break;
+                    /*
                     case TIMER_TAB_INDEX:
                         Events.sendTimerEvent(R.string.action_show, R.string.label_deskclock);
                         break;
                     case STOPWATCH_TAB_INDEX:
                         Events.sendStopwatchEvent(R.string.action_show, R.string.label_deskclock);
                         break;
+                    */
                 }
             }
 

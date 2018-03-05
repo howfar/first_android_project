@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="18d3fff1c06004587f4fcdbdaf7988df4cd819bd">
+        sha1="4ba84b8b0c6e91475100a9f80056389bb9cc3b68">
         <dex dex="F:\android\source\apps-DeskClock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_217d377d10fae1331b90ba9985d4af1dafc6a015\classes.dex" />
     </item>
 

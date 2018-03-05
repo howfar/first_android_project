@@ -20,7 +20,6 @@ import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
-import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
@@ -35,7 +34,7 @@ import android.view.animation.DecelerateInterpolator;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 
-import com.recorderclock.deskclock.DeskClock;
+import com.recorderclock.deskclock.AnimatorUtils;
 import com.recorderclock.deskclock.DeskClockFragment;
 import com.recorderclock.deskclock.HandleDeskClockApiCalls;
 import com.recorderclock.deskclock.R;
@@ -43,7 +42,6 @@ import com.recorderclock.deskclock.data.DataModel;
 import com.recorderclock.deskclock.data.Timer;
 import com.recorderclock.deskclock.data.TimerListener;
 import com.recorderclock.deskclock.events.Events;
-import com.recorderclock.deskclock.AnimatorUtils;
 
 import java.io.Serializable;
 import java.util.Arrays;
@@ -88,12 +86,13 @@ public class TimerFragment extends DeskClockFragment {
 
     /**
      * @return an Intent that selects the timers tab with the setup screen for a new timer in place.
-     */
+
+
     public static Intent createTimerSetupIntent(Context context) {
         return new Intent(context, DeskClock.class)
                 .putExtra(DeskClock.SELECT_TAB_INTENT_EXTRA, DeskClock.TIMER_TAB_INDEX)
                 .putExtra(EXTRA_TIMER_SETUP, true);
-    }
+    } */
 
     /** The public no-arg constructor required by all fragments. */
     public TimerFragment() {}
@@ -231,9 +230,10 @@ public class TimerFragment extends DeskClockFragment {
 
     @Override
     public void setFabAppearance() {
+        /*
         if (mFab == null || getSelectedTab() != DeskClock.TIMER_TAB_INDEX) {
             return;
-        }
+        }*/
 
         if (mCurrentView == mTimersView) {
             final Timer timer = getTimer();
@@ -291,6 +291,8 @@ public class TimerFragment extends DeskClockFragment {
 
     @Override
     public void setLeftRightButtonAppearance() {
+        return ;
+        /*
         if (mLeftButton == null || mRightButton == null ||
                 getSelectedTab() != DeskClock.TIMER_TAB_INDEX) {
             return;
@@ -304,7 +306,7 @@ public class TimerFragment extends DeskClockFragment {
         mRightButton.setEnabled(true);
         mRightButton.setImageResource(R.drawable.ic_add_timer);
         mRightButton.setContentDescription(getString(R.string.timer_add_timer));
-        mRightButton.setVisibility(mCurrentView != mTimersView ? GONE : VISIBLE);
+        mRightButton.setVisibility(mCurrentView != mTimersView ? GONE : VISIBLE);*/
     }
 
     @Override

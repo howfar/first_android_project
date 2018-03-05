@@ -60,7 +60,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+        <!--
         <activity-alias android:name="DockClock"
                 android:targetActivity="DeskClock"
                 android:label="@string/app_label"
@@ -96,6 +96,7 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
+-->
 
         <activity android:name=".alarms.AlarmActivity"
                 android:taskAffinity=""
@@ -154,11 +155,12 @@
             </intent-filter>
         </activity>
 
+        <!--
         <activity-alias android:name="HandleSetAlarm"
             android:targetActivity=".HandleApiCalls"
             android:exported="true">
         </activity-alias>
-
+        -->
         <activity android:name=".HandleDeskClockApiCalls"
             android:theme="@android:style/Theme.NoDisplay"
             android:excludeFromRecents="true"
