@@ -375,16 +375,17 @@
             </intent-filter>
         </receiver>
 
-        <service
-            android:name="com.recorderclock.deskclock.timer.TimerService"
-            android:description="@string/timer_service_desc"
-            android:exported="false" >
+        <!--
+        <service android:name=".timer.TimerService"
+                 android:exported="false"
+                 android:description="@string/timer_service_desc">
         </service>
-        <service
-            android:name="com.recorderclock.deskclock.stopwatch.StopwatchService"
-            android:description="@string/stopwatch_service_desc"
-            android:exported="false" >
+
+        <service android:name=".stopwatch.StopwatchService"
+                android:exported="false"
+                android:description="@string/stopwatch_service_desc">
         </service>
+        -->
     </application>
 
 </manifest>

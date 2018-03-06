@@ -40,7 +40,6 @@ import android.widget.TextView;
 
 import com.recorderclock.deskclock.data.City;
 import com.recorderclock.deskclock.data.DataModel;
-import com.recorderclock.deskclock.worldclock.CitySelectionActivity;
 
 import java.util.Calendar;
 import java.util.List;
@@ -182,7 +181,7 @@ public final class ClockFragment extends DeskClockFragment {
 
     @Override
     public void onFabClick(View view) {
-        startActivity(new Intent(getActivity(), CitySelectionActivity.class));
+//        startActivity(new Intent(getActivity(), CitySelectionActivity.class));
     }
 
     @Override

@@ -108,12 +108,12 @@
         "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selection_layout.xml",
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\layout\\selection_layout.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",

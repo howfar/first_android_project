@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-351:12
+ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-353:12
 	package
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:19:9-46
 		INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml
@@ -71,7 +71,7 @@ ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:34:
 	android:name
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:34:22-77
 application
-ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:36:5-350:19
+ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:36:5-352:19
 MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\28655f874ead28393dff6455723fdb0781b5faa2\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\9f97305a4edf0d7fdbdf201ede674729eef682b5\output\AndroidManifest.xml:26:5-20
@@ -493,22 +493,6 @@ action#times_up
 ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:337:17-51
 	android:name
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:337:25-48
-service#com.recorderclock.deskclock.timer.TimerService
-ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:341:9-344:19
-	android:exported
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:342:18-42
-	android:description
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:343:18-66
-	android:name
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:341:18-52
-service#com.recorderclock.deskclock.stopwatch.StopwatchService
-ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:346:9-349:19
-	android:exported
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:347:17-41
-	android:description
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:348:17-69
-	android:name
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:346:18-60
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\28655f874ead28393dff6455723fdb0781b5faa2\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\output\AndroidManifest.xml:25:5-27:41

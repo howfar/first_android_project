@@ -50,7 +50,7 @@ public final class SettingMenuItemController extends AbstractMenuItemController 
     @Override
     public boolean handleMenuItemClick(MenuItem item) {
         Intent settingIntent = new Intent(mActivity, SettingsActivity.class);
-        mActivity.startActivityForResult(settingIntent, REQUEST_CHANGE_SETTINGS);
+        //mActivity.startActivityForResult(settingIntent, REQUEST_CHANGE_SETTINGS);
         return true;
     }
 }

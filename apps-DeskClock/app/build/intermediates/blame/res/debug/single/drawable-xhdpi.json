@@ -20,12 +20,12 @@
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xhdpi\\appwidget_clock_hour.png"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_share.png",
-        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xhdpi\\ic_share.png"
-    },
-    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_start_white_24dp.png",
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xhdpi\\ic_start_white_24dp.png"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_share.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xhdpi\\ic_share.png"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stat_notify_stopwatch.png",

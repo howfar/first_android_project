@@ -338,6 +338,7 @@
             </intent-filter>
         </receiver>
 
+        <!--
         <service android:name=".timer.TimerService"
                  android:exported="false"
                  android:description="@string/timer_service_desc">
@@ -347,5 +348,6 @@
                 android:exported="false"
                 android:description="@string/stopwatch_service_desc">
         </service>
+        -->
     </application>
 </manifest>

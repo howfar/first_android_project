@@ -66,8 +66,8 @@ public class DeskClock extends BaseActivity
     private static final String KEY_SELECTED_TAB = "selected_tab";
     public static final String SELECT_TAB_INTENT_EXTRA = "deskclock.select.tab";
 
-    public static final int ALARM_TAB_INDEX = 0;
-    public static final int CLOCK_TAB_INDEX = 1;
+    public static final int ALARM_TAB_INDEX = 1;
+    public static final int CLOCK_TAB_INDEX = 0;
     //public static final int TIMER_TAB_INDEX = 2;
     //public static final int STOPWATCH_TAB_INDEX = 3;
 

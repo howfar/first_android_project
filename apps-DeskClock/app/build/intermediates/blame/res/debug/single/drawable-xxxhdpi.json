@@ -40,24 +40,24 @@
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_alarm_off_white_24dp.png"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_label_normal.png",
-        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_label_normal.png"
-    },
-    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete.png",
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete.png"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_tab_clock_activated.png",
-        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_clock_activated.png"
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_label_normal.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_label_normal.png"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_cancel.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel.png"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_swipe_circle_light.png",
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_cancel.png",
-        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel.png"
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_tab_clock_activated.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_clock_activated.png"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bg_day_selected.png",

@@ -1,4 +1,4 @@
-#Mon Mar 05 21:29:16 CST 2018
+#Tue Mar 06 22:13:08 CST 2018
 base.0=F\:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f29378be5ff8312eb7e56fbf04b07dcf1125dfb8
 renamed.1=classes2.dex
 renamed.0=classes.dex
