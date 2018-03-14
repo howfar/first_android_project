@@ -39,6 +39,7 @@ public final class CollapsedAlarmViewHolder extends AlarmTimeViewHolder {
     public final TextView upcomingInstanceLabel;
     public final View hairLine;
 
+
     public CollapsedAlarmViewHolder(View itemView,
             final AlarmTimeClickHandler alarmTimeClickHandler,
             final AlarmTimeAdapter alarmTimeAdapter) {

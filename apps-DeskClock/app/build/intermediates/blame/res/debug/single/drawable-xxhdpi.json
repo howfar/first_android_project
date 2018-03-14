@@ -36,12 +36,12 @@
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxhdpi\\appwidget_clock_hour.png"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_noalarms.png",
-        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxhdpi\\ic_noalarms.png"
-    },
-    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_alarm_small_12dp.png",
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxhdpi\\ic_alarm_small_12dp.png"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_noalarms.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable-xxhdpi\\ic_noalarms.png"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_swipe_circle_dark.png",

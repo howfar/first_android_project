@@ -51,12 +51,12 @@ import android.widget.TextView;
 
 import com.recorderclock.deskclock.AnimatorUtils;
 import com.recorderclock.deskclock.LogUtils;
-import com.recorderclock.deskclock.R;
 import com.recorderclock.deskclock.Utils;
 import com.recorderclock.deskclock.events.Events;
 import com.recorderclock.deskclock.provider.AlarmInstance;
 import com.recorderclock.deskclock.settings.SettingsActivity;
 import com.recorderclock.deskclock.widget.CircleView;
+import com.recorderclock.deskclock.R;
 
 public class AlarmActivity extends AppCompatActivity
         implements View.OnClickListener, View.OnTouchListener {

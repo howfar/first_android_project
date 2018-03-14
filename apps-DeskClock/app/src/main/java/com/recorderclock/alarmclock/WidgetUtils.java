@@ -23,8 +23,8 @@ import android.content.res.Resources;
 import android.os.Bundle;
 import android.util.TypedValue;
 import android.widget.RemoteViews;
-
 import com.recorderclock.deskclock.R;
+
 import com.recorderclock.deskclock.Utils;
 import com.recorderclock.deskclock.data.DataModel;
 

@@ -102,14 +102,14 @@ public final class R {
         public static final int time_picker_dialog = 0x7f130102;
     }
     public static final class layout {
-        public static final int date_picker_dialog = 0x7f040029;
-        public static final int date_picker_done_button = 0x7f04002a;
-        public static final int date_picker_header_view = 0x7f04002b;
-        public static final int date_picker_selected_date = 0x7f04002c;
-        public static final int date_picker_view_animator = 0x7f04002d;
-        public static final int time_header_label = 0x7f040061;
-        public static final int time_picker_dialog = 0x7f040062;
-        public static final int year_label_text_view = 0x7f04006c;
+        public static final int date_picker_dialog = 0x7f04002a;
+        public static final int date_picker_done_button = 0x7f04002b;
+        public static final int date_picker_header_view = 0x7f04002c;
+        public static final int date_picker_selected_date = 0x7f04002d;
+        public static final int date_picker_view_animator = 0x7f04002e;
+        public static final int time_header_label = 0x7f040063;
+        public static final int time_picker_dialog = 0x7f040064;
+        public static final int year_label_text_view = 0x7f04006e;
     }
     public static final class string {
         public static final int ampm_circle_radius_multiplier = 0x7f0c0114;

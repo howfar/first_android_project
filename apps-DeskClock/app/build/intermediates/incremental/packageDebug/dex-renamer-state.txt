@@ -1,7 +1,4 @@
-#Tue Mar 06 22:13:08 CST 2018
-base.0=F\:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f29378be5ff8312eb7e56fbf04b07dcf1125dfb8
-renamed.1=classes2.dex
+#Wed Mar 14 21:59:55 CST 2018
+base.0=F\:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=F\:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_217d377d10fae1331b90ba9985d4af1dafc6a015\\classes.dex
-base.1=F\:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_217d377d10fae1331b90ba9985d4af1dafc6a015
-file.0=F\:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f29378be5ff8312eb7e56fbf04b07dcf1125dfb8\\classes.dex
+file.0=F\:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

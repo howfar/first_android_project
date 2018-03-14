@@ -104,16 +104,20 @@
         "source": "C:\\Users\\gsy\\.android\\build-cache\\28655f874ead28393dff6455723fdb0781b5faa2\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_record_activity.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\layout\\alarm_record_activity.xml"
+    },
+    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selection_layout.xml",
-        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\layout\\selection_layout.xml"
-    },
-    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selection_layout.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\layout\\selection_layout.xml"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
@@ -354,6 +358,10 @@
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recoder_dialog.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\layout\\layout_recoder_dialog.xml"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_dialog.xml",

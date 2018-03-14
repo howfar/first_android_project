@@ -26,17 +26,14 @@ import android.media.RingtoneManager;
 import android.net.Uri;
 
 import com.recorderclock.deskclock.LogUtils;
-import com.recorderclock.deskclock.R;
 import com.recorderclock.deskclock.Utils;
 import com.recorderclock.deskclock.alarms.AlarmStateManager;
 import com.recorderclock.deskclock.settings.SettingsActivity;
+import com.recorderclock.deskclock.R;
 
 import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
-
-import static android.provider.BaseColumns._ID;
-import static com.recorderclock.deskclock.provider.ClockContract.AlarmsColumns.CONTENT_URI;
 
 public final class AlarmInstance implements com.recorderclock.deskclock.provider.ClockContract.InstancesColumns {
     /**

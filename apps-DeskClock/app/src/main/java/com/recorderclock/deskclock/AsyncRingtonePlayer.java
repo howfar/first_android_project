@@ -14,6 +14,7 @@ import android.os.Looper;
 import android.os.Message;
 import android.telephony.TelephonyManager;
 import android.text.format.DateUtils;
+import android.util.Log;
 
 import java.io.IOException;
 import java.lang.reflect.Method;
@@ -290,6 +291,7 @@ public final class AsyncRingtonePlayer {
             checkAsyncRingtonePlayerThread();
 
             LogUtils.i(TAG, "Play ringtone via android.media.MediaPlayer.");
+            LogUtils.i(TAG, "uri----:" + ringtoneUri);
 
             if (mAudioManager == null) {
                 mAudioManager = (AudioManager) context.getSystemService(Context.AUDIO_SERVICE);
@@ -478,6 +480,7 @@ public final class AsyncRingtonePlayer {
             checkAsyncRingtonePlayerThread();
 
             LogUtils.i(TAG, "Play ringtone via android.media.Ringtone.");
+            LogUtils.i(TAG, "play: ringtoneUri-------:"+ringtoneUri);
 
             if (mAudioManager == null) {
                 mAudioManager = (AudioManager) context.getSystemService(Context.AUDIO_SERVICE);
@@ -490,9 +493,11 @@ public final class AsyncRingtonePlayer {
 
             // attempt to fetch the specified ringtone
             mRingtone = RingtoneManager.getRingtone(context, ringtoneUri);
+            Log.d(TAG, "play: ringtoneUri-------:"+ringtoneUri);
 
             if (mRingtone == null) {
                 // fall back to the default ringtone
+                Log.d(TAG, "play: ##############################");
                 final Uri defaultUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_ALARM);
                 mRingtone = RingtoneManager.getRingtone(context, defaultUri);
             }

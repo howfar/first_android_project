@@ -24,12 +24,12 @@
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable\\fastscroll_thumb.xml"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_timer.xml",
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable\\ic_timer.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -52,12 +52,16 @@
         "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\gsy\\.android\\build-cache\\28655f874ead28393dff6455723fdb0781b5faa2\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\gsy\\.android\\build-cache\\28655f874ead28393dff6455723fdb0781b5faa2\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_recoder_btn_recoding.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable\\shape_recoder_btn_recoding.xml"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm.xml",
@@ -108,6 +112,10 @@
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable\\clock_analog_second_mipmap.xml"
     },
     {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_recording_animation.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable\\layer_recording_animation.xml"
+    },
+    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\done_background_color_dark.xml",
         "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable\\done_background_color_dark.xml"
     },
@@ -118,6 +126,10 @@
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "C:\\Users\\gsy\\.android\\build-cache\\28655f874ead28393dff6455723fdb0781b5faa2\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_window_background.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable\\shape_window_background.xml"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
@@ -218,6 +230,14 @@
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\gsy\\.android\\build-cache\\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_recoder_btn_normal.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable\\shape_recoder_btn_normal.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_recodering_btn.xml",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\drawable\\selector_recodering_btn.xml"
     },
     {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",

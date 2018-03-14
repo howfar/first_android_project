@@ -28,6 +28,7 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.format.DateFormat;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -229,6 +230,7 @@ public final class AlarmClockFragment extends DeskClockFragment implements
             case R.id.request_code_ringtone:
                 // Extract the selected ringtone uri.
                 Uri uri = data.getParcelableExtra(RingtoneManager.EXTRA_RINGTONE_PICKED_URI);
+                Log.i("onActivityResult", "onActivityResult----: " + uri);
                 if (uri == null) {
                     uri = Alarm.NO_RINGTONE_URI;
                 }

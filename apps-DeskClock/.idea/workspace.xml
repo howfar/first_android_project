@@ -8,8 +8,10 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="AsyncRingtonePlayer" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3513693a-b252-46b2-9455-c373562ed91e" name="Default" comment="" />
@@ -43,60 +45,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DeskClock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/DeskClock.java">
+      <file leaf-file-name="AlarmTimeClickHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmTimeClickHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
+            <state relative-caret-position="347">
+              <caret line="186" column="45" selection-start-line="186" selection-start-column="45" selection-end-line="186" selection-end-column="45" />
               <folding>
-                <element signature="e#14751#14771#0" expanded="true" />
-                <element signature="e#14773#14797#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClockFragment.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/ClockFragment.java">
+      <file leaf-file-name="AlarmClockFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AlarmClockFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
+            <state relative-caret-position="204">
+              <caret line="238" column="67" selection-start-line="238" selection-start-column="41" selection-end-line="238" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewPager.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/AndroidWorkspace/LuceneSearchDemo-Android-master/sdk/extras/android/m2repository/com/android/support/support-core-ui/26.0.0-alpha1/support-core-ui-26.0.0-alpha1-sources.jar!/android/support/v4/view/ViewPager.java">
+      <file leaf-file-name="DataModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/DataModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1874">
-              <caret line="842" column="16" selection-start-line="842" selection-start-column="16" selection-end-line="842" selection-end-column="16" />
+            <state relative-caret-position="197">
+              <caret line="455" column="32" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SettingMenuItemController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/SettingMenuItemController.java">
+      <file leaf-file-name="AlarmModel.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/AlarmModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+            <state relative-caret-position="273">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SettingsActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/SettingsActivity.java">
+      <file leaf-file-name="AudioRecoderUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/audio/AudioRecoderUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1669">
-              <caret line="311" column="60" selection-start-line="311" selection-start-column="60" selection-end-line="311" selection-end-column="60" />
+            <state relative-caret-position="221">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AsyncRingtonePlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AsyncRingtonePlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="306" column="45" selection-start-line="306" selection-start-column="45" selection-end-line="306" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alarm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/provider/Alarm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="244" column="36" selection-start-line="244" selection-start-column="36" selection-end-line="244" selection-end-column="36" />
+              <folding>
+                <element signature="e#5902#5903#0" expanded="true" />
+                <element signature="e#5956#5957#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlarmRingtoneRecorderActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AlarmRingtoneRecorderActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="117" column="5" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2723,26 +2767,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/platform-packages-apps-DeskClock-rk.iml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AlarmInitReceiver.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/provider/AlarmInstance.java" />
-        <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/recordclock/deskclock/BuildConfig.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/alarmclock/AnalogAppWidgetProvider.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/alarmclock/DigitalAppWidgetProvider.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/alarmclock/DigitalAppWidgetService.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/alarmclock/DigitalWidgetViewsFactory.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/alarmclock/WidgetUtils.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/desk_clock.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/MenuItemControllerFactory.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/HandleDeskClockApiCalls.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/StopwatchFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/HandleApiCalls.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/SettingMenuItemController.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/DeskClock.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/ClockFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/TimePickerCompat.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/dataadapter/AlarmTimeAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/dataadapter/AlarmTimeViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmUpdateHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/provider/Alarm.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/widget/TextTime.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/provider/DaysOfWeek.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmNotifications.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmStateManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/dataadapter/CollapsedAlarmViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/dataadapter/ExpandedAlarmViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/AlarmModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/SettingsModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/CityModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/TimerModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/StopwatchModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/CityDAO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/SettingsDAO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/events/Events.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/CrescendoLengthDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/ScreensaverSettingsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/SettingsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/SnoozeLengthDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/LapsAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/StopwatchCircleView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/StopwatchFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/CountingTimerView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/StopwatchService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/ExpiredTimersActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerCircleView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerSetupView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerItemFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/worldclock/CitySelectionActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/widget/selector/AlarmSelectionAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/widget/CircleView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_recoder_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/audio/AudioRecoderDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alarm_record_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmTimeClickHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/audio/AudioRecoderUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AlarmClockFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AlarmRingtoneRecorderActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AsyncRingtonePlayer.java" />
       </list>
     </option>
   </component>
@@ -2778,89 +2853,14 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps-DeskClock" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps-DeskClock" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps-DeskClock" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps-DeskClock" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="recorderclock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="deskclock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps-DeskClock" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="recorderclock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
         <subPane />
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2871,6 +2871,17 @@
     <property name="device.picker.selection" value="Nexus_4_clock" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
+    <property name="SearchEverywhereHistoryKey" value="RINGTONE_URI_KEY&#9;PSI&#9;JAVA://com.recorderclock.deskclock.AsyncRingtonePlayer#RINGTONE_URI_KEY&#10;MediaPlayer&#9;PSI&#9;JAVA://com.recorderclock.deskclock.AsyncRingtonePlayer.MediaPlayerPlaybackDelegate&#10;onActivityResult&#9;PSI&#9;JAVA://com.recorderclock.deskclock.AlarmClockFragment#onActivityResult&#10;AlarmTimeClickHandler&#9;FILE&#9;file://F:/android/source/apps-DeskClock/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmTimeClickHandler.java&#10;alarm&#9;PSI&#9;JAVA://com.recorderclock.deskclock.provider.Alarm&#10;R&#9;FILE&#9;file://F:/android/source/apps-DeskClock/app/build/generated/source/r/debug/android/support/transition/R.java&#10;ic_add_white_24dp&#9;PSI&#9;JAVA://com.recorderclock.deskclock.R.drawable#ic_add_white_24dp&#10;alarm_time_expanded&#9;PSI&#9;JAVA://com.recorderclock.deskclock.alarms.dataadapter.AlarmTimeAdapter#VIEW_TYPE_ALARM_TIME_EXPANDED&#10;ic_expand_down&#9;PSI&#9;JAVA://com.recorderclock.deskclock.R.drawable#ic_expand_down&#10;ic_delete&#9;PSI&#9;JAVA://com.recorderclock.deskclock.R.drawable#ic_delete" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.recorderclock.deskclock" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\android\source\apps-DeskClock\app\src\main\res\mipmap-mdpi" />
+      <recent name="F:\android\source\apps-DeskClock\app\src\main\res\layout-land" />
+      <recent name="F:\android\source\apps-DeskClock\app\src\main\res\drawable-sw600dp-hdpi" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -3151,7 +3162,7 @@
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
       </Native>
       <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="ENABLE_ADVANCED_PROFILING" value="false" />
         <option name="SUPPORT_LIB_ENABLED" value="true" />
         <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
@@ -3202,24 +3213,27 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35074627" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19713657" sideWeight="0.50441015" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41960353" sideWeight="0.49558985" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19616205" sideWeight="0.50441015" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40088105" sideWeight="0.49558985" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18722467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27689487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27689487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31828195" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3227,8 +3241,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -3243,464 +3255,494 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AsyncRingtonePlayer.java</url>
+          <line>484</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/blank_footer_view.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="193">
+          <caret line="188" column="43" selection-start-line="188" selection-start-column="43" selection-end-line="188" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#7678#7700#0" expanded="false" />
+            <element signature="e#7702#7723#0" expanded="false" />
+            <element signature="e#8013#8034#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/cities_activity.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmStateManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="476">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <element signature="e#20301#20321#0" expanded="false" />
+            <element signature="e#22633#22665#0" expanded="false" />
+            <element signature="e#41468#41491#0" expanded="false" />
+            <element signature="e#41493#41520#0" expanded="false" />
+            <element signature="e#41632#41654#0" expanded="false" />
+            <element signature="e#41656#41683#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/clock_fragment.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/crescendo_length_picker.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/day_button.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/desk_clock_saver.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/dataadapter/CollapsedAlarmViewHolder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="159">
+          <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3855#3900#0" expanded="false" />
+            <element signature="e#4960#5002#0" expanded="false" />
+            <element signature="e#5025#5064#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/digital_appwidget.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/widget/TextTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="193">
+          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/digital_widget_time.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/StopwatchModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="193">
+          <caret line="220" column="34" selection-start-line="220" selection-start-column="34" selection-end-line="220" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6876#6903#0" expanded="true" />
+            <element signature="e#8715#8752#0" expanded="true" />
+            <element signature="e#9300#9335#0" expanded="true" />
+            <element signature="e#10190#10251#0" expanded="true" />
+            <element signature="e#10840#10877#0" expanded="true" />
+            <element signature="e#11505#11542#0" expanded="true" />
+            <element signature="e#12083#12117#0" expanded="true" />
+            <element signature="e#12256#12290#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/expired_timers_activity.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-411">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/lap_view.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_clock_frame.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/preemptive_dismiss.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/TimerModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/screensaver_settings.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/selection_layout.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/settings.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/snooze_length_picker.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/stopwatch_fragment.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/stopwatch_notif_collapsed.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/three_keys_view.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/time_setup_view.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/timer_fragment.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/timer_h_mm_ss_view.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/timer_item.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/timer_setup_buttons.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/world_clock_item.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/world_clock_label.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/world_clock_list_item.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/world_clock_remote_list_item.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-224">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/BaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1163">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="193">
+          <caret line="368" column="58" selection-start-line="368" selection-start-column="58" selection-end-line="368" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#13440#13497#0" expanded="false" />
+            <element signature="e#17801#17823#0" expanded="false" />
+            <element signature="e#18010#18031#0" expanded="false" />
+            <element signature="e#22893#22946#0" expanded="false" />
+            <element signature="e#23144#23164#0" expanded="false" />
+            <element signature="e#23512#23537#0" expanded="false" />
+            <element signature="e#23886#23927#0" expanded="false" />
+            <element signature="e#24029#24054#0" expanded="false" />
+            <element signature="e#24404#24428#0" expanded="false" />
+            <element signature="e#24915#24975#0" expanded="false" />
+            <element signature="e#25008#25068#0" expanded="false" />
+            <element signature="e#25163#25216#0" expanded="false" />
+            <element signature="e#25249#25310#0" expanded="false" />
+            <element signature="e#25418#25442#0" expanded="false" />
+            <element signature="e#25991#26018#0" expanded="false" />
+            <element signature="e#29803#29868#0" expanded="false" />
+            <element signature="e#29897#29950#0" expanded="false" />
+            <element signature="e#29983#30026#0" expanded="false" />
+            <element signature="e#30161#30200#0" expanded="false" />
+            <element signature="e#30228#30271#0" expanded="false" />
+            <element signature="e#30400#30453#0" expanded="false" />
+            <element signature="e#32726#32771#0" expanded="false" />
+            <element signature="e#33497#33514#0" expanded="false" />
+            <element signature="e#33600#33615#0" expanded="false" />
+            <element signature="e#33816#33849#0" expanded="false" />
+            <element signature="e#33868#33899#0" expanded="false" />
+            <element signature="e#34115#34157#0" expanded="false" />
+            <element signature="e#34213#34247#0" expanded="false" />
+            <element signature="e#34326#34362#0" expanded="false" />
+            <element signature="e#34410#34447#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/CityDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1554">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/AlarmModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-908">
-          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/desk_clock_menu.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/AbstractMenuItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/ActionBarMenuManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="47" column="43" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/MenuItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/MenuItemProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/MenuItemControllerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" column="73" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/desk_clock.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" column="55" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+        <state relative-caret-position="193">
+          <caret line="99" column="55" selection-start-line="99" selection-start-column="55" selection-end-line="99" selection-end-column="55" />
           <folding>
-            <element signature="e#0#25915#0" expanded="false" />
             <element signature="imports" expanded="false" />
-            <element signature="e#25193#25194#0" expanded="false" />
-            <element signature="e#25261#25262#0" expanded="false" />
-            <element signature="e#25744#25745#0" expanded="false" />
-            <element signature="e#25800#25801#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/provider/ClockProvider.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/SettingsDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="206">
+          <caret line="138" column="55" selection-start-line="138" selection-start-column="55" selection-end-line="138" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/HandleDeskClockApiCalls.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/events/Events.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3944">
-          <caret line="258" column="10" selection-start-line="258" selection-start-column="10" selection-end-line="258" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="193">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1417#1440#0" expanded="false" />
+            <element signature="e#2016#2039#0" expanded="false" />
+            <element signature="e#2324#2351#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/CrescendoLengthDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1287#1344#0" expanded="false" />
+            <element signature="e#1588#1642#0" expanded="false" />
+            <element signature="e#1906#1961#0" expanded="false" />
+            <element signature="e#2982#3036#0" expanded="false" />
+            <element signature="e#3100#3196#0" expanded="false" />
+            <element signature="e#4967#5021#0" expanded="false" />
+            <element signature="e#5064#5134#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/ScreensaverSettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/CityModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="127" column="52" selection-start-line="127" selection-start-column="52" selection-end-line="127" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/SettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="110" column="40" selection-start-line="110" selection-start-column="40" selection-end-line="110" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#13629#13656#0" expanded="false" />
+            <element signature="e#13794#13824#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/SnoozeLengthDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1779#1809#0" expanded="false" />
+            <element signature="e#2917#2942#0" expanded="false" />
+            <element signature="e#4221#4250#0" expanded="false" />
+            <element signature="e#4740#4765#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/LapsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#6245#6302#0" expanded="false" />
+            <element signature="e#6479#6521#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/StopwatchCircleView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="79" column="52" selection-start-line="79" selection-start-column="52" selection-end-line="79" selection-end-column="52" />
+          <folding>
+            <marker date="1520772732971" expanded="false" signature="676:1175" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/SettingsModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/StopwatchFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3128">
-          <caret line="234" column="45" selection-start-line="234" selection-start-column="45" selection-end-line="234" selection-end-column="45" />
+        <state relative-caret-position="193">
+          <caret line="222" column="50" selection-start-line="222" selection-start-column="50" selection-end-line="222" selection-end-column="50" />
           <folding>
-            <element signature="e#0#18076#0" expanded="false" />
+            <marker date="1520772742139" expanded="false" signature="676:2049" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/CountingTimerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="270" column="41" selection-start-line="270" selection-start-column="41" selection-end-line="270" selection-end-column="41" />
+          <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#6962#6963#0" expanded="false" />
-            <element signature="e#7000#7001#0" expanded="false" />
-            <element signature="e#7338#7339#0" expanded="false" />
-            <element signature="e#7363#7364#0" expanded="false" />
-            <element signature="e#15319#15320#0" expanded="false" />
-            <element signature="e#15381#15382#0" expanded="false" />
-            <element signature="e#15424#15425#0" expanded="false" />
-            <element signature="e#15488#15489#0" expanded="false" />
-            <element signature="e#15927#15928#0" expanded="false" />
-            <element signature="e#15985#15986#0" expanded="false" />
-            <element signature="e#18020#18021#0" expanded="false" />
-            <element signature="e#18066#18067#0" expanded="false" />
+            <element signature="e#9945#9982#0" expanded="false" />
+            <element signature="e#19410#19440#0" expanded="false" />
+            <element signature="e#19601#19631#0" expanded="false" />
+            <element signature="e#19786#19816#0" expanded="false" />
+            <element signature="e#19961#19989#0" expanded="false" />
+            <element signature="e#20140#20170#0" expanded="false" />
+            <element signature="e#20325#20355#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/stopwatch/StopwatchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="51" column="66" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1811#1832#0" expanded="false" />
+            <element signature="e#1834#1861#0" expanded="false" />
+            <element signature="e#2069#2090#0" expanded="false" />
+            <element signature="e#2317#2336#0" expanded="false" />
+            <element signature="e#2338#2365#0" expanded="false" />
+            <element signature="e#2627#2648#0" expanded="false" />
+            <element signature="e#2650#2677#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/ExpiredTimersActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4281#4311#0" expanded="false" />
+            <element signature="e#9039#9063#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerCircleView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="66" column="58" selection-start-line="66" selection-start-column="58" selection-end-line="66" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2310#2365#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4403">
-          <caret line="308" column="81" selection-start-line="308" selection-start-column="81" selection-end-line="308" selection-end-column="83" />
+        <state relative-caret-position="176">
+          <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9433#9463#0" expanded="false" />
+            <element signature="e#9672#9703#0" expanded="false" />
+            <element signature="e#9884#9914#0" expanded="false" />
+            <element signature="e#10462#10482#0" expanded="false" />
+            <element signature="e#10484#10508#0" expanded="false" />
+            <element signature="e#10681#10702#0" expanded="false" />
+            <element signature="e#10704#10728#0" expanded="false" />
+            <element signature="e#10847#10871#0" expanded="false" />
+            <element signature="e#12049#12096#0" expanded="false" />
+            <element signature="e#17216#17238#0" expanded="false" />
+            <element signature="e#17240#17264#0" expanded="false" />
+            <element signature="e#18870#18892#0" expanded="false" />
+            <element signature="e#18894#18918#0" expanded="false" />
+            <element signature="e#25294#25316#0" expanded="false" />
+            <element signature="e#25318#25342#0" expanded="false" />
+            <element signature="e#25472#25493#0" expanded="false" />
+            <element signature="e#25495#25519#0" expanded="false" />
+            <element signature="e#26272#26320#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerSetupView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
+          <folding>
+            <marker date="1520772818379" expanded="false" signature="672:1304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="115" column="43" selection-start-line="115" selection-start-column="43" selection-end-line="115" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4042#4069#0" expanded="false" />
+            <element signature="e#4255#4282#0" expanded="false" />
+            <element signature="e#5021#5048#0" expanded="false" />
+            <element signature="e#5249#5270#0" expanded="false" />
+            <element signature="e#5272#5299#0" expanded="false" />
+            <element signature="e#5509#5535#0" expanded="false" />
+            <element signature="e#5537#5564#0" expanded="false" />
+            <element signature="e#5730#5757#0" expanded="false" />
+            <element signature="e#5943#5963#0" expanded="false" />
+            <element signature="e#5965#5986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerItemFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="57" column="61" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3064#3088#0" expanded="false" />
+            <element signature="e#3258#3284#0" expanded="false" />
+            <element signature="e#3286#3310#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/timer/TimerItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3662#3708#0" expanded="false" />
+            <element signature="e#4044#4093#0" expanded="false" />
+            <element signature="e#4430#4476#0" expanded="false" />
+            <element signature="e#4812#4861#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/widget/selector/AlarmSelectionAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2243#2300#0" expanded="false" />
+            <element signature="e#2323#2377#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/worldclock/CitySelectionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="309" column="76" selection-start-line="309" selection-start-column="76" selection-end-line="309" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#14330#14411#0" expanded="false" />
+            <element signature="e#14528#14611#0" expanded="false" />
+            <element signature="e#22502#22550#0" expanded="false" />
+            <element signature="e#22597#22639#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/widget/CircleView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/audio/AudioRecoderDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_recoder_dialog.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/HandleApiCalls.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alarm_activity.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4896">
-          <caret line="332" column="39" selection-start-line="332" selection-start-column="39" selection-end-line="332" selection-end-column="39" />
+        <state relative-caret-position="157">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alarm_record_activity.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3710,54 +3752,140 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="350" column="11" selection-start-line="350" selection-start-column="11" selection-end-line="350" selection-end-column="11" />
+        <state relative-caret-position="-85">
+          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/AndroidWorkspace/LuceneSearchDemo-Android-master/sdk/platforms/android-26/android.jar!/android/content/ContentResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/AndroidWorkspace/LuceneSearchDemo-Android-master/sdk/platforms/android-26/android.jar!/android/database/Cursor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/provider/Alarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="244" column="36" selection-start-line="244" selection-start-column="36" selection-end-line="244" selection-end-column="36" />
           <folding>
-            <marker date="1520345144547" expanded="false" signature="16832:16860" ph="&quot;Processes actions from timer notifications.&quot;" />
-            <marker date="1520345144547" expanded="false" signature="17019:17051" ph="&quot;Processes actions from stopwatch notifications.&quot;" />
+            <element signature="e#5902#5903#0" expanded="true" />
+            <element signature="e#5956#5957#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/settings/SettingsActivity.java">
+    <entry file="jar://D:/AndroidWorkspace/LuceneSearchDemo-Android-master/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/26.0.0-alpha1/recyclerview-v7-26.0.0-alpha1-sources.jar!/android/support/v7/widget/RecyclerView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1669">
-          <caret line="311" column="60" selection-start-line="311" selection-start-column="60" selection-end-line="311" selection-end-column="60" />
+        <state relative-caret-position="172">
+          <caret line="6410" column="0" selection-start-line="6410" selection-start-column="0" selection-end-line="6410" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/actionbarmenu/SettingMenuItemController.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/dataadapter/ExpandedAlarmViewHolder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/AndroidWorkspace/LuceneSearchDemo-Android-master/sdk/extras/android/m2repository/com/android/support/support-core-ui/26.0.0-alpha1/support-core-ui-26.0.0-alpha1-sources.jar!/android/support/v4/view/ViewPager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1874">
-          <caret line="842" column="16" selection-start-line="842" selection-start-column="16" selection-end-line="842" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/DeskClock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
+        <state relative-caret-position="240">
+          <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
           <folding>
-            <element signature="e#14751#14771#0" expanded="true" />
-            <element signature="e#14773#14797#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6134#6135#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/ClockFragment.java">
+    <entry file="jar://D:/AndroidWorkspace/LuceneSearchDemo-Android-master/sdk/platforms/android-26/android.jar!/android/app/Fragment.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
+        <state relative-caret-position="172">
+          <caret line="207" column="16" selection-start-line="207" selection-start-column="16" selection-end-line="207" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/AndroidWorkspace/LuceneSearchDemo-Android-master/sdk/platforms/android-26/android.jar!/android/media/RingtoneManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-680">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/audio/AudioRecoderUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/dataadapter/AlarmTimeAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-490">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/alarms/AlarmTimeClickHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="186" column="45" selection-start-line="186" selection-start-column="45" selection-end-line="186" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AlarmRingtoneRecorderActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="117" column="5" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AsyncRingtonePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="306" column="45" selection-start-line="306" selection-start-column="45" selection-end-line="306" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/AlarmClockFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="238" column="67" selection-start-line="238" selection-start-column="41" selection-end-line="238" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/DataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="455" column="32" selection-start-line="455" selection-start-column="32" selection-end-line="455" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/recorderclock/deskclock/data/AlarmModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>

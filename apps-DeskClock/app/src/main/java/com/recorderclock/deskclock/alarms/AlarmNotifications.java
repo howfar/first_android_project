@@ -27,9 +27,9 @@ import com.recorderclock.deskclock.AlarmClockFragment;
 import com.recorderclock.deskclock.AlarmUtils;
 import com.recorderclock.deskclock.DeskClock;
 import com.recorderclock.deskclock.LogUtils;
-import com.recorderclock.deskclock.R;
 import com.recorderclock.deskclock.provider.Alarm;
 import com.recorderclock.deskclock.provider.AlarmInstance;
+import com.recorderclock.deskclock.R;
 
 public final class AlarmNotifications {
     public static final String EXTRA_NOTIFICATION_ID = "extra_notification_id";

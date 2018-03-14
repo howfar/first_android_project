@@ -23,9 +23,9 @@ import android.support.design.widget.Snackbar;
 import android.text.format.DateFormat;
 import android.view.View;
 import android.view.ViewGroup;
+import com.recorderclock.deskclock.R;
 
 import com.recorderclock.deskclock.AlarmUtils;
-import com.recorderclock.deskclock.R;
 import com.recorderclock.deskclock.events.Events;
 import com.recorderclock.deskclock.provider.Alarm;
 import com.recorderclock.deskclock.provider.AlarmInstance;

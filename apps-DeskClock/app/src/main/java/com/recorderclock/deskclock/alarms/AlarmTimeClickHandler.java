@@ -26,13 +26,18 @@ import android.os.Bundle;
 import android.os.Vibrator;
 import android.text.format.DateFormat;
 
+import com.recorderclock.deskclock.AlarmRingtoneRecorderActivity;
 import com.recorderclock.deskclock.LabelDialogFragment;
 import com.recorderclock.deskclock.LogUtils;
-import com.recorderclock.deskclock.R;
 import com.recorderclock.deskclock.alarms.utils.DayOrderUtils;
+import com.recorderclock.deskclock.audio.AudioRecoderDialog;
+import com.recorderclock.deskclock.audio.AudioRecoderUtils;
 import com.recorderclock.deskclock.provider.Alarm;
 import com.recorderclock.deskclock.provider.AlarmInstance;
+import com.recorderclock.deskclock.R;
 
+import java.io.File;
+import java.util.ArrayList;
 import java.util.Calendar;
 
 /**
@@ -47,9 +52,17 @@ public final class AlarmTimeClickHandler {
     private final AlarmUpdateHandler mAlarmUpdateHandler;
     private final ScrollHandler mScrollHandler;
 
+
     private Alarm mSelectedAlarm;
     private Bundle mPreviousDaysOfWeekMap;
     private int[] mDayOrder;
+
+    //gsy
+    private AudioRecoderDialog recoderDialog;
+    private AudioRecoderUtils recoderUtils;
+    private ArrayList<String> recordFiles;
+    private boolean sdCardExit;
+    private File myRecAudioDir;// 得到Sd卡path
 
     public AlarmTimeClickHandler(Fragment fragment, Bundle savedState,
             AlarmUpdateHandler alarmUpdateHandler, ScrollHandler smoothScrollController) {
@@ -161,10 +174,14 @@ public final class AlarmTimeClickHandler {
         mAlarmUpdateHandler.showPredismissToast(alarmInstance);
     }
 
-    public void onRingtoneClicked(Alarm alarm) {
+    public void onRingtoneClicked(Context context,Alarm alarm) {
         mSelectedAlarm = alarm;
         final Uri oldRingtone = Alarm.NO_RINGTONE_URI.equals(alarm.alert) ? null : alarm.alert;
-        final Intent intent = new Intent(RingtoneManager.ACTION_RINGTONE_PICKER);
+
+
+        //final Intent intent = new Intent(RingtoneManager.ACTION_RINGTONE_PICKER);
+        //gsy
+        final Intent intent = new Intent(context,AlarmRingtoneRecorderActivity.class);
         intent.putExtra(RingtoneManager.EXTRA_RINGTONE_EXISTING_URI, oldRingtone);
         intent.putExtra(RingtoneManager.EXTRA_RINGTONE_TYPE, RingtoneManager.TYPE_ALARM);
         intent.putExtra(RingtoneManager.EXTRA_RINGTONE_SHOW_DEFAULT, false);

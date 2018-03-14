@@ -29,14 +29,16 @@ import android.widget.CompoundButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.recorderclock.deskclock.R;
 import com.recorderclock.deskclock.Utils;
 import com.recorderclock.deskclock.alarms.AlarmTimeClickHandler;
 import com.recorderclock.deskclock.alarms.utils.DayOrderUtils;
+import com.recorderclock.deskclock.audio.AudioRecoderDialog;
+import com.recorderclock.deskclock.audio.AudioRecoderUtils;
 import com.recorderclock.deskclock.data.DataModel;
 import com.recorderclock.deskclock.provider.Alarm;
 import com.recorderclock.deskclock.provider.AlarmInstance;
 import com.recorderclock.deskclock.provider.DaysOfWeek;
+import com.recorderclock.deskclock.R;
 
 import java.util.HashSet;
 
@@ -57,6 +59,11 @@ public final class ExpandedAlarmViewHolder extends AlarmTimeViewHolder {
 
     private final boolean mHasVibrator;
     private final int[] mDayOrder;
+
+    //gsy begin
+    private AudioRecoderDialog recoderDialog;
+    private AudioRecoderUtils recoderUtils;
+    //gsy end
 
     public ExpandedAlarmViewHolder(View itemView,
             final boolean hasVibrator,
@@ -139,7 +146,7 @@ public final class ExpandedAlarmViewHolder extends AlarmTimeViewHolder {
         ringtone.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                alarmTimeClickHandler.onRingtoneClicked(mAlarm);
+                alarmTimeClickHandler.onRingtoneClicked(ringtone.getContext(), mAlarm);
             }
         });
         // Delete alarm handler

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_microphone_recoding.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\mipmap-mdpi\\icon_microphone_recoding.png"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_microphone_normal.png",
+        "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\mipmap-mdpi\\icon_microphone_normal.png"
+    },
+    {
         "merged": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_alarmclock.png",
         "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_alarmclock.png"
     }
