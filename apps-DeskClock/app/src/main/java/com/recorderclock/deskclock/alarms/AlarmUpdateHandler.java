@@ -18,19 +18,22 @@ package com.recorderclock.deskclock.alarms;
 
 import android.content.ContentResolver;
 import android.content.Context;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.support.design.widget.Snackbar;
 import android.text.format.DateFormat;
 import android.view.View;
 import android.view.ViewGroup;
-import com.recorderclock.deskclock.R;
 
 import com.recorderclock.deskclock.AlarmUtils;
+import com.recorderclock.deskclock.R;
 import com.recorderclock.deskclock.events.Events;
 import com.recorderclock.deskclock.provider.Alarm;
 import com.recorderclock.deskclock.provider.AlarmInstance;
 import com.recorderclock.deskclock.widget.toast.SnackbarManager;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.Calendar;
 import java.util.List;
 
@@ -165,6 +168,21 @@ public final class AlarmUpdateHandler {
                 }
                 Events.sendAlarmEvent(R.string.action_delete, R.string.label_deskclock);
                 AlarmStateManager.deleteAllInstances(mAppContext, alarm.id);
+                Uri uri = alarm.alert;
+                File file = new File(uri.getPath());
+                file.delete();
+                try {
+                    if(file.exists()){
+
+                        file.getCanonicalFile().delete();
+
+                        if(file.exists()){
+                            mAppContext.getApplicationContext().deleteFile(file.getName());
+                        }
+                    }
+                } catch (IOException e) {
+                e.printStackTrace();
+                }
                 return Alarm.deleteAlarm(mAppContext.getContentResolver(), alarm.id);
             }
 

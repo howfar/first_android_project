@@ -38,12 +38,14 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.recorderclock.deskclock.audio.AudioRecoderDialog;
 import com.recorderclock.deskclock.audio.AudioRecoderUtils;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.UUID;
 
 import static android.os.Environment.MEDIA_MOUNTED;
 
@@ -79,10 +81,10 @@ public class AlarmRingtoneRecorderActivity extends AppCompatActivity implements 
     private long downT;
 
     private boolean sdCardExit;
-    private File myRecAudioDir;// 得到Sd卡path
+    private File recorderFile;
     private ArrayList<String> recordFiles;
     private ListView myListView1;
-    private String tmpStr;
+    private String rdFileName = "";
     private Uri uri;
 
     @Override
@@ -109,12 +111,18 @@ public class AlarmRingtoneRecorderActivity extends AppCompatActivity implements 
         recoderDialog.setShowAlpha(0.98f);
 
         //recoderUtils = new AudioRecoderUtils(new File(Environment.getExternalStorageDirectory() + "/recoder.amr"));
-        File recorderFile = new File(getFilePath(this, "/recoder") + "/recoder.amr");
-        recoderUtils = new AudioRecoderUtils(recorderFile);
+        UUID uuidFileName = UUID.randomUUID();
+        rdFileName = "/" + uuidFileName + ".amr";
+        recorderFile = new File(getFilePath(this, "/recoder") + rdFileName);
+
 
         uri = Uri.fromFile(recorderFile);
 
+        recoderUtils = new AudioRecoderUtils(recorderFile);
         recoderUtils.setOnAudioStatusUpdateListener(this);
+
+        //权限请求
+        recoderUtils.verifyStoragePermissions(this);
     }
 
     @TargetApi(19)
@@ -136,8 +144,6 @@ public class AlarmRingtoneRecorderActivity extends AppCompatActivity implements 
             case MotionEvent.ACTION_DOWN:
                 //Toast.makeText(getApplicationContext(),"start！！",Toast.LENGTH_SHORT).show();
 
-                //权限请求
-                recoderUtils.verifyStoragePermissions(this);
 
                 recoderUtils.startRecord();
                 downT = System.currentTimeMillis();
@@ -146,8 +152,10 @@ public class AlarmRingtoneRecorderActivity extends AppCompatActivity implements 
                 return true;
             case MotionEvent.ACTION_UP:
                 recoderUtils.stopRecord();
+                Toast.makeText(AlarmRingtoneRecorderActivity.this, "up!", Toast.LENGTH_LONG).show();
                 recoderDialog.dismiss();
                 button.setBackgroundResource(R.drawable.shape_recoder_btn_normal);
+                button.setEnabled(false);
                 return true;
         }
         return false;
@@ -188,29 +196,6 @@ public class AlarmRingtoneRecorderActivity extends AppCompatActivity implements 
         return directoryPath;
     }
 
-    // 存储一个音频文件数组到list当中
-    private void getRecordFiles()
-    {
-        recordFiles = new ArrayList<String>();
-        if (sdCardExit)
-        {
-            File files[] = myRecAudioDir.listFiles();
-            if (files != null)
-            {
-                for (int i = 0; i < files.length; i++)
-                {
-                    if (files[i].getName().indexOf(".") >= 0)
-                    {
-            /* 只取.amr文件 */
-                        String fileS = files[i].getName().substring(
-                                files[i].getName().indexOf("."));
-                        if (fileS.toLowerCase().equals(".amr"))
-                            recordFiles.add(files[i].getName());
-                    }
-                }
-            }
-        }
-    }
 
 
     @Override

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_time_header_label.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout\\time_header_label.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_date_picker_header_view.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout\\date_picker_header_view.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_date_picker_selector.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\color\\date_picker_selector.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_date_picker_year_selector.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\color\\date_picker_year_selector.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_done_text_color.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\color\\done_text_color.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_date_picker_view_animator.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout\\date_picker_view_animator.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_done_background_color.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\drawable\\done_background_color.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-land-v13_date_picker_dialog.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout-sw600dp-land-v13\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_year_label_text_view.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout\\year_label_text_view.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_done_background_color_dark.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\drawable\\done_background_color_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_done_text_color_dark.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\color\\done_text_color_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land_date_picker_dialog.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout-land\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_date_picker_done_button.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout\\date_picker_done_button.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land_done_background_color.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\drawable-land\\done_background_color.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_date_picker_dialog.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v19_done_background_color.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\drawable-v19\\done_background_color.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_date_picker_selected_date.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout\\date_picker_selected_date.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land-v19_done_background_color.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\drawable-land-v19\\done_background_color.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-v13_date_picker_dialog.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout-sw600dp-v13\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land_time_picker_dialog.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout-land\\time_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_time_picker_dialog.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout\\time_picker_dialog.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-land_done_background_color_dark.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\drawable-land\\done_background_color_dark.xml"
+    },
+    {
+        "merged": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-w270dp-h560dp-v13_date_picker_dialog.xml.flat",
+        "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\layout-w270dp-h560dp-v13\\date_picker_dialog.xml"
+    }
+]

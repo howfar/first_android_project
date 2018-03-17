@@ -47,6 +47,7 @@
         android:name="com.recorderclock.deskclock.DeskClockApplication"
         android:allowBackup="true"
         android:backupAgent="com.recorderclock.deskclock.DeskClockBackupAgent"
+        android:debuggable="true"
         android:fullBackupContent="@xml/backup_scheme"
         android:fullBackupOnly="true"
         android:icon="@mipmap/ic_launcher_alarmclock"

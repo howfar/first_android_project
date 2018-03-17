@@ -1,6 +1,27 @@
 -- Merging decision tree log ---
 manifest
 ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-364:12
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-364:12
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-364:12
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-364:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\0e372863f2637765767abc902bf34de9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\fec115630f1472c4c052cc606167c643\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\1573b9e4fa6c0461e81147df758a7c2b\AndroidManifest.xml:17:1-26:12
+MERGED from [:datetimepicker] F:\android\source\apps-DeskClock\datetimepicker\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\f98d89967b716798c217d06834dc6381\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\72aebeb1ca1d7560567dd36e7d1ff09e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3adb5d02c0446199d6f7184733a69fe4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\78629293048f71fbaf2a745f333cd45e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\1d06a783b7552c531a21290fd767afc2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\e67c6fe978fc60cd74d6888fd50b6b9b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a0118860274a808b6247199f0e86cbad\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0edac1057ac4d589de2e3d7ef78936ec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\760543455b06a760337b3dae621ec666\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\716a3580155952e82e1b48943f064a38\AndroidManifest.xml:17:1-31:12
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-364:12
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-364:12
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:1-364:12
 	package
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:19:9-46
 		INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml
@@ -9,33 +30,53 @@ ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:20:35-62
 		INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml
 		INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:11-69
 	android:versionCode
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:20:9-34
 		INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml
 		INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:18:11-69
 uses-sdk
 ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:23:5-44
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\28655f874ead28393dff6455723fdb0781b5faa2\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\9f97305a4edf0d7fdbdf201ede674729eef682b5\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\c7602f91a883c089bf88c2159afbc91704955af2\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\3a585e9e09fc25086decc163db7267c8fc13179a\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\81cc3b5dd1f9bb3693a52ba0f28251c3cf67bf0a\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\5b494f1b571f1c1c2d968ad9ec3d5db218158b5a\output\AndroidManifest.xml:20:5-44
-MERGED from [apps-DeskClock:datetimepicker:unspecified] F:\android\source\apps-DeskClock\datetimepicker\build\intermediates\bundles\default\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\bccbdaeb4380a67aff748de2cebc346ec197eaa8\output\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\a07c8cbda14806af30f13d18390c3d235160ce55\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\91a81ad294052b0496ff312a25d7cf67fa5ab346\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\0fa40261aeac9256bcffaa1c2f8f0d88095b682a\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\879a9276c08f16613380d2364458e8df7cb0bb72\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\65f00168310dce092cb829e20d55d08d1b3c37d3\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\1ac80cbadfb03e51b2d8819d653b882404d4b60b\output\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:23:5-44
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\0e372863f2637765767abc902bf34de9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\0e372863f2637765767abc902bf34de9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\fec115630f1472c4c052cc606167c643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\fec115630f1472c4c052cc606167c643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\1573b9e4fa6c0461e81147df758a7c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\1573b9e4fa6c0461e81147df758a7c2b\AndroidManifest.xml:20:5-44
+MERGED from [:datetimepicker] F:\android\source\apps-DeskClock\datetimepicker\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-24:41
+MERGED from [:datetimepicker] F:\android\source\apps-DeskClock\datetimepicker\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\f98d89967b716798c217d06834dc6381\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\f98d89967b716798c217d06834dc6381\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\72aebeb1ca1d7560567dd36e7d1ff09e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\72aebeb1ca1d7560567dd36e7d1ff09e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3adb5d02c0446199d6f7184733a69fe4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3adb5d02c0446199d6f7184733a69fe4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\78629293048f71fbaf2a745f333cd45e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\78629293048f71fbaf2a745f333cd45e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\1d06a783b7552c531a21290fd767afc2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\1d06a783b7552c531a21290fd767afc2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\e67c6fe978fc60cd74d6888fd50b6b9b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\e67c6fe978fc60cd74d6888fd50b6b9b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a0118860274a808b6247199f0e86cbad\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a0118860274a808b6247199f0e86cbad\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0edac1057ac4d589de2e3d7ef78936ec\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0edac1057ac4d589de2e3d7ef78936ec\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\760543455b06a760337b3dae621ec666\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\760543455b06a760337b3dae621ec666\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\716a3580155952e82e1b48943f064a38\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\716a3580155952e82e1b48943f064a38\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:23:5-44
+INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:23:5-44
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\28655f874ead28393dff6455723fdb0781b5faa2\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:23:5-44
 		INJECTED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:23:15-41
@@ -51,7 +92,8 @@ ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:26:
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:26:22-65
 uses-permission#android.permission.VIBRATE
 ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:27:5-65
-MERGED from [apps-DeskClock:datetimepicker:unspecified] F:\android\source\apps-DeskClock\datetimepicker\build\intermediates\bundles\default\AndroidManifest.xml:26:5-66
+MERGED from [:datetimepicker] F:\android\source\apps-DeskClock\datetimepicker\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:5-66
+MERGED from [:datetimepicker] F:\android\source\apps-DeskClock\datetimepicker\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:5-66
 	android:name
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:27:22-63
 uses-permission#android.permission.DISABLE_KEYGUARD
@@ -92,33 +134,46 @@ ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:40:
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:40:22-77
 application
 ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:42:5-363:19
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\28655f874ead28393dff6455723fdb0781b5faa2\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\9f97305a4edf0d7fdbdf201ede674729eef682b5\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\c7602f91a883c089bf88c2159afbc91704955af2\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\3a585e9e09fc25086decc163db7267c8fc13179a\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\81cc3b5dd1f9bb3693a52ba0f28251c3cf67bf0a\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\bccbdaeb4380a67aff748de2cebc346ec197eaa8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\a07c8cbda14806af30f13d18390c3d235160ce55\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\91a81ad294052b0496ff312a25d7cf67fa5ab346\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\0fa40261aeac9256bcffaa1c2f8f0d88095b682a\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\879a9276c08f16613380d2364458e8df7cb0bb72\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\65f00168310dce092cb829e20d55d08d1b3c37d3\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\1ac80cbadfb03e51b2d8819d653b882404d4b60b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\0e372863f2637765767abc902bf34de9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\0e372863f2637765767abc902bf34de9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\fec115630f1472c4c052cc606167c643\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\fec115630f1472c4c052cc606167c643\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\f98d89967b716798c217d06834dc6381\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\f98d89967b716798c217d06834dc6381\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\72aebeb1ca1d7560567dd36e7d1ff09e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\72aebeb1ca1d7560567dd36e7d1ff09e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3adb5d02c0446199d6f7184733a69fe4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3adb5d02c0446199d6f7184733a69fe4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\78629293048f71fbaf2a745f333cd45e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\78629293048f71fbaf2a745f333cd45e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\1d06a783b7552c531a21290fd767afc2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\1d06a783b7552c531a21290fd767afc2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\e67c6fe978fc60cd74d6888fd50b6b9b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\e67c6fe978fc60cd74d6888fd50b6b9b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a0118860274a808b6247199f0e86cbad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a0118860274a808b6247199f0e86cbad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0edac1057ac4d589de2e3d7ef78936ec\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0edac1057ac4d589de2e3d7ef78936ec\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\760543455b06a760337b3dae621ec666\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\760543455b06a760337b3dae621ec666\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\716a3580155952e82e1b48943f064a38\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\716a3580155952e82e1b48943f064a38\AndroidManifest.xml:29:5-20
 	android:backupAgent
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:45:18-60
-	android:label
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:42:18-51
 	android:supportsRtl
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:50:18-44
+	android:label
+		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:42:18-51
 	android:requiredForAllUsers
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:49:18-52
 	android:fullBackupContent
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:46:18-64
-	android:allowBackup
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:44:18-44
 	android:icon
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:48:18-63
+	android:allowBackup
+		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:44:18-44
 	android:fullBackupOnly
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:47:18-47
 	android:name
@@ -167,10 +222,10 @@ ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:107
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:111:17-64
 	android:showOnLockScreen
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:112:17-48
-	android:directBootAware
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:113:17-47
 	android:theme
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:110:17-65
+	android:directBootAware
+		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:113:17-47
 	android:taskAffinity
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:108:17-40
 	android:name
@@ -499,10 +554,10 @@ ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:336
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:337:17-50
 	android:launchMode
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:339:17-52
-	android:configChanges
-		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:342:17-86
 	android:showOnLockScreen
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:340:17-48
+	android:configChanges
+		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:342:17-86
 	android:theme
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:338:17-66
 	android:taskAffinity
@@ -522,21 +577,34 @@ ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:348
 	android:name
 		ADDED from F:\android\source\apps-DeskClock\app\src\main\AndroidManifest.xml:348:25-48
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\28655f874ead28393dff6455723fdb0781b5faa2\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\b6fbf3ba0d3bb9ba6760c5f23103e3b1a2a6fb17\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\9f97305a4edf0d7fdbdf201ede674729eef682b5\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\c7602f91a883c089bf88c2159afbc91704955af2\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\3a585e9e09fc25086decc163db7267c8fc13179a\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\81cc3b5dd1f9bb3693a52ba0f28251c3cf67bf0a\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\5b494f1b571f1c1c2d968ad9ec3d5db218158b5a\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\bccbdaeb4380a67aff748de2cebc346ec197eaa8\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\a07c8cbda14806af30f13d18390c3d235160ce55\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\91a81ad294052b0496ff312a25d7cf67fa5ab346\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\0fa40261aeac9256bcffaa1c2f8f0d88095b682a\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\879a9276c08f16613380d2364458e8df7cb0bb72\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\65f00168310dce092cb829e20d55d08d1b3c37d3\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\1ac80cbadfb03e51b2d8819d653b882404d4b60b\output\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\0e372863f2637765767abc902bf34de9\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\0e372863f2637765767abc902bf34de9\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\fec115630f1472c4c052cc606167c643\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\fec115630f1472c4c052cc606167c643\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\1573b9e4fa6c0461e81147df758a7c2b\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\1573b9e4fa6c0461e81147df758a7c2b\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\f98d89967b716798c217d06834dc6381\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\f98d89967b716798c217d06834dc6381\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\72aebeb1ca1d7560567dd36e7d1ff09e\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\72aebeb1ca1d7560567dd36e7d1ff09e\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3adb5d02c0446199d6f7184733a69fe4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3adb5d02c0446199d6f7184733a69fe4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\78629293048f71fbaf2a745f333cd45e\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\78629293048f71fbaf2a745f333cd45e\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\1d06a783b7552c531a21290fd767afc2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\1d06a783b7552c531a21290fd767afc2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\e67c6fe978fc60cd74d6888fd50b6b9b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\e67c6fe978fc60cd74d6888fd50b6b9b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a0118860274a808b6247199f0e86cbad\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a0118860274a808b6247199f0e86cbad\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0edac1057ac4d589de2e3d7ef78936ec\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0edac1057ac4d589de2e3d7ef78936ec\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\760543455b06a760337b3dae621ec666\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\760543455b06a760337b3dae621ec666\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\716a3580155952e82e1b48943f064a38\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\716a3580155952e82e1b48943f064a38\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\28655f874ead28393dff6455723fdb0781b5faa2\output\AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.android\build-cache\28655f874ead28393dff6455723fdb0781b5faa2\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\gsy\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\c5c0b67095eb0b9ded61ee997d8216d8\AndroidManifest.xml:26:9-47

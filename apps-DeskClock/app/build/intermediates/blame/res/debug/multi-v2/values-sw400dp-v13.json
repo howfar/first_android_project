@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-sw400dp\\dimens.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endColumns": "51",
+                        "endOffsets": "734"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

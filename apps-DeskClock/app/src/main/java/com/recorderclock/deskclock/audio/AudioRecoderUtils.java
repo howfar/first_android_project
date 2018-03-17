@@ -18,6 +18,7 @@ import java.io.IOException;
 public class AudioRecoderUtils {
 
     private String filePath;
+    private File file;
     private MediaRecorder mMediaRecorder;
     private final String TAG = "MediaRecord";
     public static final int MAX_LENGTH = 1000 * 60 * 10;// 最大录音时长1000*60*10;
@@ -30,6 +31,7 @@ public class AudioRecoderUtils {
 
     public AudioRecoderUtils(File file) {
         this.filePath = file.getAbsolutePath();
+        this.file = file;
     }
 
     private long startTime;
@@ -83,55 +85,90 @@ public class AudioRecoderUtils {
     public void startRecord() {
         // 开始录音
         /* ①Initial：实例化MediaRecorder对象 */
-        if (mMediaRecorder == null)
+        if (mMediaRecorder == null){
             mMediaRecorder = new MediaRecorder();
-        try {
+            try {
             /* ②setAudioSource/setVedioSource */
-            mMediaRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);// 设置麦克风
+                mMediaRecorder.setAudioSource(MediaRecorder.AudioSource.DEFAULT);// 设置麦克风
             /* ②设置音频文件的编码：AAC/AMR_NB/AMR_MB/Default 声音的（波形）的采样 */
-            mMediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.DEFAULT);
+                mMediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.DEFAULT);
             /*
              * ②设置输出文件的格式：THREE_GPP/MPEG-4/RAW_AMR/Default THREE_GPP(3gp格式
              * ，H263视频/ARM音频编码)、MPEG-4、RAW_AMR(只支持音频且音频编码要求为AMR_NB)
              */
-            mMediaRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
+                mMediaRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
             /* ③准备 */
-            mMediaRecorder.setOutputFile(filePath);
-            Log.i(TAG, "----------------FILEPATH-------------------" + filePath);
-            mMediaRecorder.setMaxDuration(MAX_LENGTH);
-            mMediaRecorder.prepare();
+                mMediaRecorder.setOutputFile(filePath);
+                Log.i(TAG, "----------------FILEPATH-------------------" + filePath);
+                mMediaRecorder.setMaxDuration(MAX_LENGTH);
+                mMediaRecorder.prepare();
             /* ④开始 */
-            mMediaRecorder.start();
-            // AudioRecord audioRecord.
+                mMediaRecorder.start();
+                // AudioRecord audioRecord.
             /* 获取开始时间* */
-            startTime = System.currentTimeMillis();
-            updateMicStatus();
-            Log.i("ACTION_START", "startTime" + startTime);
-        } catch (IllegalStateException e) {
-            Log.i(TAG, "call startAmr(File mRecAudioFile) failed!" + e.getMessage());
-        } catch (IOException e) {
-            Log.i(TAG, "call startAmr(File mRecAudioFile) failed!" + e.getMessage());
+                startTime = System.currentTimeMillis();
+                updateMicStatus();
+                Log.i("ACTION_START", "startTime" + startTime);
+            } catch (IllegalStateException e) {
+                Log.i(TAG, "call startAmr(File mRecAudioFile) failed!" + e.getMessage());
+            } catch (IOException e) {
+                Log.i(TAG, "call startAmr(File mRecAudioFile) failed!" + e.getMessage());
+            }
+        }else{
+            mMediaRecorder.stop();
+            mMediaRecorder.reset();
+            mMediaRecorder.release();
+            mMediaRecorder = new MediaRecorder();
+            try {
+            /* ②setAudioSource/setVedioSource */
+                mMediaRecorder.setAudioSource(MediaRecorder.AudioSource.DEFAULT);// 设置麦克风
+            /* ②设置音频文件的编码：AAC/AMR_NB/AMR_MB/Default 声音的（波形）的采样 */
+                mMediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.DEFAULT);
+            /*
+             * ②设置输出文件的格式：THREE_GPP/MPEG-4/RAW_AMR/Default THREE_GPP(3gp格式
+             * ，H263视频/ARM音频编码)、MPEG-4、RAW_AMR(只支持音频且音频编码要求为AMR_NB)
+             */
+                mMediaRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
+            /* ③准备 */
+                mMediaRecorder.setOutputFile(filePath);
+                Log.i(TAG, "----------------FILEPATH-------------------" + filePath);
+                mMediaRecorder.setMaxDuration(MAX_LENGTH);
+                mMediaRecorder.prepare();
+            /* ④开始 */
+                mMediaRecorder.start();
+                // AudioRecord audioRecord.
+            /* 获取开始时间* */
+                startTime = System.currentTimeMillis();
+                updateMicStatus();
+                Log.i("ACTION_START", "startTime" + startTime);
+            } catch (IllegalStateException e) {
+                Log.i(TAG, "call startAmr(File mRecAudioFile) failed!" + e.getMessage());
+            } catch (IOException e) {
+                Log.i(TAG, "call startAmr(File mRecAudioFile) failed!" + e.getMessage());
+            }
         }
+
     }
 
     /**
      * 停止录音
      */
     public long stopRecord() {
-        if (mMediaRecorder == null)
+        if (mMediaRecorder == null) {
             return 0L;
-        endTime = System.currentTimeMillis();
-        Log.i("ACTION_END", "endTime" + endTime);
-        mMediaRecorder = new MediaRecorder();
-        try {
-            /* ②设置音频文件的编码：AAC/AMR_NB/AMR_MB/Default 声音的（波形）的采样 */
-            mMediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.DEFAULT);
-            mMediaRecorder.stop();
-            mMediaRecorder.reset();
-            mMediaRecorder.release();
+        }else{
+            endTime = System.currentTimeMillis();
+            Log.i("ACTION_END", "endTime" + endTime);
+            try {
+                mMediaRecorder.stop();
+                mMediaRecorder.reset();
+                mMediaRecorder.release();
+            }catch (IllegalStateException e) {
+                mMediaRecorder = null;
+                mMediaRecorder = new MediaRecorder();
+                Log.i(TAG, "call startAmr(File mRecAudioFile) failed!" + e.getMessage());
+            }
             mMediaRecorder = null;
-        }catch (IllegalStateException e) {
-            Log.i(TAG, "call startAmr(File mRecAudioFile) failed!" + e.getMessage());
         }
 
         Log.i("ACTION_LENGTH", "Time" + (endTime - startTime));

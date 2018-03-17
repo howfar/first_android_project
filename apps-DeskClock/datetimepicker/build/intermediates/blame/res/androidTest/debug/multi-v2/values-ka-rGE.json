@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ka-rGE\\values-ka-rGE.xml",
+            "map": [
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\values-ka-rGE\\values-ka-rGE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,205,312,390,497,611,719,810,897,985,1068",
+                        "endColumns": "99,106,77,106,113,107,90,86,87,82,90",
+                        "endOffsets": "200,307,385,492,606,714,805,892,980,1063,1154"
+                    }
+                }
+            ]
+        }
+    ]
+}

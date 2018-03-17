@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gsy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\0e372863f2637765767abc902bf34de9\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,3,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,127,255,369",
+                        "endLines": "2,5,8,11",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "122,250,364,476"
+                    },
+                    "to": {
+                        "startLines": "3,4,7,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,193,321,435",
+                        "endLines": "3,6,9,12",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "188,316,430,542"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "from": {
+                        "startLines": "17,18,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "687,732,784",
+                        "endColumns": "44,51,52",
+                        "endOffsets": "727,779,832"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,152",
+                        "endColumns": "44,51,52",
+                        "endOffsets": "95,147,200"
+                    }
+                }
+            ]
+        }
+    ]
+}

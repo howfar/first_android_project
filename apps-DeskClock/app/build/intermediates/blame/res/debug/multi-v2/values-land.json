@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gsy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\0e372863f2637765767abc902bf34de9\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,206,262",
+                        "endColumns": "46,48,54,55,54",
+                        "endOffsets": "97,146,201,257,312"
+                    },
+                    "to": {
+                        "startLines": "18,21,26,27,28",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "942,1092,1347,1402,1458",
+                        "endColumns": "46,48,54,55,54",
+                        "endOffsets": "984,1136,1397,1453,1508"
+                    }
+                },
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "34,57,44,23,38,42,37,40,51,46,45,24,30,29,47,39,49,25,52,55,26,22,27,31,32,41,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1329,2203,1732,856,1469,1674,1425,1569,1999,1834,1783,903,1157,1108,1892,1520,1950,949,2044,2157,1001,808,1049,1211,1274,1617,2108",
+                        "endColumns": "53,61,50,46,50,56,43,47,44,57,50,45,53,48,56,48,47,51,62,44,47,47,57,62,53,56,48",
+                        "endOffsets": "1378,2260,1778,898,1515,1726,1464,1612,2039,1887,1829,944,1206,1152,1944,1564,1993,996,2102,2197,1044,851,1102,1269,1323,1669,2152"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,19,20,22,23,24,25,29,30,31,32,33,34,35,36,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "328,382,444,495,542,593,650,694,742,787,845,896,989,1043,1141,1198,1247,1295,1513,1576,1621,1669,1717,1775,1838,1892,1949",
+                        "endColumns": "53,61,50,46,50,56,43,47,44,57,50,45,53,48,56,48,47,51,62,44,47,47,57,62,53,56,48",
+                        "endOffsets": "377,439,490,537,588,645,689,737,782,840,891,937,1038,1087,1193,1242,1290,1342,1571,1616,1664,1712,1770,1833,1887,1944,1993"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gsy\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0-alpha1.aar\\c5c0b67095eb0b9ded61ee997d8216d8\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "1998",
+                        "endLines": "41",
+                        "endColumns": "12",
+                        "endOffsets": "2175"
+                    }
+                }
+            ]
+        }
+    ]
+}

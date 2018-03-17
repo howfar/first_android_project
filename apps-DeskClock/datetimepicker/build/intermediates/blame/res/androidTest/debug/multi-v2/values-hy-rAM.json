@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+            "map": [
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,320,400,513,626,743,832,917,1006,1089",
+                        "endColumns": "108,105,79,112,112,116,88,84,88,82,96",
+                        "endOffsets": "209,315,395,508,621,738,827,912,1001,1084,1181"
+                    }
+                }
+            ]
+        }
+    ]
+}

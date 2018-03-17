@@ -38,7 +38,6 @@ import com.recorderclock.deskclock.alarms.AlarmUpdateHandler;
 import com.recorderclock.deskclock.alarms.ScrollHandler;
 import com.recorderclock.deskclock.alarms.TimePickerCompat;
 import com.recorderclock.deskclock.alarms.dataadapter.AlarmTimeAdapter;
-import com.recorderclock.deskclock.data.DataModel;
 import com.recorderclock.deskclock.provider.Alarm;
 import com.recorderclock.deskclock.widget.EmptyViewController;
 import com.recorderclock.deskclock.widget.toast.SnackbarManager;
@@ -236,7 +235,7 @@ public final class AlarmClockFragment extends DeskClockFragment implements
                 }
 
                 // Update the default ringtone for future new alarms.
-                DataModel.getDataModel().setDefaultAlarmRingtoneUri(uri);
+                //DataModel.getDataModel().setDefaultAlarmRingtoneUri(uri);
 
                 // Set the ringtone uri on the alarm.
                 final Alarm alarm = mAlarmTimeClickHandler.getSelectedAlarm();

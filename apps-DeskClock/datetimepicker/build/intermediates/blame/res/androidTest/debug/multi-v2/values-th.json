@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-th\\values-th.xml",
+            "map": [
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\datetimepicker\\build\\intermediates\\bundles\\debug\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,206,313,392,499,610,716,802,886,969,1047",
+                        "endColumns": "100,106,78,106,110,105,85,83,82,77,90",
+                        "endOffsets": "201,308,387,494,605,711,797,881,964,1042,1133"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android\\source\\apps-DeskClock\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-v23\\styles.xml",
+                    "from": {
+                        "startLines": "7,2,12,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "265,55,470,919",
+                        "endLines": "10,5,18,27",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "464,259,913,1402"
+                    },
+                    "to": {
+                        "startLines": "3,42,46,53",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "108,2903,3112,3560",
+                        "endLines": "6,45,52,60",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "307,3107,3555,4043"
+                    }
+                },
+                {
+                    "source": "F:\\android\\source\\apps-DeskClock\\app\\src\\main\\res\\values-v23\\dimens.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "138",
+                        "endColumns": "52",
+                        "endOffsets": "186"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gsy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\0e372863f2637765767abc902bf34de9\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,24,37,38,39,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "312,447,582,657,744,1534,2336,2463,2568,2683,2790",
+                        "endLines": "7,8,9,10,23,36,37,38,39,40,41",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "442,577,652,739,1529,2331,2458,2563,2678,2785,2898"
+                    }
+                }
+            ]
+        }
+    ]
+}
